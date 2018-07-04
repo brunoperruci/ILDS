@@ -1,7 +1,7 @@
 {
   "_class": "rectangle",
   "booleanOperation": -1,
-  "do_objectID": "8B4BB9A6-4337-4D8F-95FC-AEDDB3A5D635",
+  "do_objectID": "164810FC-58B8-472A-92F0-45DC46778FC4",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,8 +16,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 256,
+    "height": 24,
+    "width": 24,
     "x": 0,
     "y": 0
   },
@@ -44,7 +44,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 3,
+      "cornerRadius": 0,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -54,7 +54,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 3,
+      "cornerRadius": 0,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -76,11 +76,5 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  }
+  "shouldBreakMaskChain": false
 }

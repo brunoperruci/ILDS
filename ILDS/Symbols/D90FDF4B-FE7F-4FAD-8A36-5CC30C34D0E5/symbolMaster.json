@@ -4,15 +4,13 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "0249D7AC-B161-42C3-A263-9A054940F1FF",
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 37,
-  "do_objectID": "5AF0E963-43EA-4974-A09B-4E508EFD540D",
+  "changeIdentifier": 3,
+  "do_objectID": "D90FDF4B-FE7F-4FAD-8A36-5CC30C34D0E5",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CCCF70DB-E676-4630-94E1-EED7712B5D08",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -23,18 +21,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B449EF4F-FD38-4545-BC5D-59D985D890FB",
-    "height": 40,
-    "width": 256,
-    "x": 1299,
-    "y": 1980
+    "height": 24,
+    "width": 116,
+    "x": 2726,
+    "y": -136
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "246AEB37-388C-42DB-9802-B3F6727BB729",
     "guides": [
     ]
   },
@@ -46,19 +42,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "23A3B1D2-459E-4F6D-89C7-76B87FE6385A"
+      "id": "4CEB5952-0523-4734-8052-9D9D6763193E"
     },
     {
-      "class": "symbolInstance",
-      "id": "BAEBC076-1C46-4B66-B172-768E0FABC663"
+      "class": "text",
+      "id": "7C6CBB09-6A18-42E6-ABC4-B495B31413F0"
     }
   ],
-  "name": "atoms/forms/searchbox/focused",
-  "nameIsFixed": true,
+  "name": "tag/resting",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -66,22 +62,14 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "EB9B25A8-B45F-4D5F-8869-99D3C471F982",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "C55C4157-4DFF-405C-AEFF-7F5B9A250DAB",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
+  "symbolID": "059BF1D1-1827-4309-8F7E-F6806E6C32BE",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "7A9B2DDA-B189-4912-9B1A-01C512A3DA0B",
     "guides": [
     ]
   }

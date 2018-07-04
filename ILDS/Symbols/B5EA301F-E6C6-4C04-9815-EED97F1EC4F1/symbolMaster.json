@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 6,
   "do_objectID": "B5EA301F-E6C6-4C04-9815-EED97F1EC4F1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -71,6 +71,12 @@
     "startDecorationType": 0
   },
   "symbolID": "D382C923-F6A9-4A71-9ADC-80B00FFA6CC0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

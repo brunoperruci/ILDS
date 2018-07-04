@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 7,
   "do_objectID": "9F7EA9F4-8915-4208-A6B1-C15D31EFCDD1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,15 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
       "id": "538650ED-6B69-46A0-9FF8-532E4637B44D"
     }
   ],
-  "name": "atoms/icons/inline/warning",
-  "nameIsFixed": false,
+  "name": "atoms/icons/warning",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
