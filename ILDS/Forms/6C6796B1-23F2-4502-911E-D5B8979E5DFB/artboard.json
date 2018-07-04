@@ -23,13 +23,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "96B0E460-5760-4014-A3E2-3A2045D7D75E",
-    "height": 540,
+    "height": 848,
     "width": 960,
     "x": 1436,
     "y": -127
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -57,6 +57,14 @@
     {
       "class": "text",
       "id": "7F716312-0BED-44D5-B130-9710FC35EF56"
+    },
+    {
+      "class": "text",
+      "id": "3874AE95-84A5-4B6F-A81F-06E3BD7A6DA5"
+    },
+    {
+      "class": "text",
+      "id": "C2E68FE2-DF66-42F7-AB46-E1644F5806E7"
     },
     {
       "class": "text",
@@ -101,6 +109,14 @@
     {
       "class": "symbolInstance",
       "id": "70289C81-8FB3-4651-B033-A1811CD63D2B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3D8C982F-55BC-4290-9E61-E77F29E78910"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D952D12B-BFED-49C7-BCFA-C09A0F62716C"
     }
   ],
   "name": "Searchbox",

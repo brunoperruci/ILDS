@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 186,
+  "changeIdentifier": 188,
   "do_objectID": "A095B19C-5BD6-44D6-B922-D7194F4FEAE3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -57,7 +57,7 @@
       "id": "D576C64C-1CD6-4371-B32B-997E93C5B707"
     }
   ],
-  "name": "forms/searchbox/label/filled/hover",
+  "name": "forms/searchbox/label/filled/single/hover",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
