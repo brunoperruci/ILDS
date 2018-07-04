@@ -6,10 +6,15 @@
 
 ### How to Use
 1. Download and Install the applications and plugins from 'Requirements' section.
+
 2. Go into Cactus and clone the `https://github.com/brunoperruci/ILUI.git` repository URL
+
 ![Cloning repository](https://i.imgur.com/JRJkFDx.gif)
+
 3. Add Library to Sketch
+
 ![Add Library](https://i.imgur.com/UdW1mEd.gif)
+
 4. That's all.
 
 ### More
