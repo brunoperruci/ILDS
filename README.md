@@ -1,8 +1,13 @@
 # UI Library
 
 ### Requirements
-**Applications** --- [Sketch 47+](https://www.sketchapp.com/) | [Kactus](https://kactus.io/)
-**Sketch Plugins** --- [Anima App](https://www.animaapp.com/) | [Paddy](https://github.com/DWilliames/paddy-sketch-plugin)
+**Applications**
+- [Sketch 47+](https://www.sketchapp.com/)
+- [Kactus](https://kactus.io/)
+
+**Sketch Plugins**
+- [Anima App](https://www.animaapp.com/)
+- [Paddy](https://github.com/DWilliames/paddy-sketch-plugin)
 
 ### How to Use
 1. Download and Install the applications and plugins from 'Requirements' section.
