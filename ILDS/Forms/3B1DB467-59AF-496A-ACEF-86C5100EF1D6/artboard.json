@@ -25,11 +25,11 @@
     "do_objectID": "F64A5FE4-5EFF-46D2-B6F6-FAD2F63CE8B7",
     "height": 510,
     "width": 965,
-    "x": 4465,
+    "x": 5099,
     "y": -127
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -63,8 +63,8 @@
       "id": "099C1B8F-A106-4A14-B47C-CAF3A06EBB9F"
     },
     {
-      "class": "shapeGroup",
-      "id": "8350300A-A8FF-411D-932E-8DAED5345072"
+      "class": "symbolInstance",
+      "id": "FE67D47A-9A2C-4D6F-A500-39631EF13B56"
     },
     {
       "class": "text",
@@ -75,8 +75,8 @@
       "id": "549F51F4-E4BE-49BB-98D8-23E8AF7B7B10"
     },
     {
-      "class": "shapeGroup",
-      "id": "7FCFD3DD-1E04-440C-9F2E-F8BF30213DBC"
+      "class": "symbolInstance",
+      "id": "760E0223-140A-4DAF-9B93-1661DE0F6938"
     },
     {
       "class": "text",
@@ -87,8 +87,8 @@
       "id": "F1C6A722-31A3-4099-9B71-1B5C7CA7E5F9"
     },
     {
-      "class": "shapeGroup",
-      "id": "6FA7A646-DA59-4ECB-A915-BD984525C5B5"
+      "class": "symbolInstance",
+      "id": "7D77BC80-61E0-4D4F-BFA7-D85022EF3008"
     },
     {
       "class": "text",
@@ -99,16 +99,16 @@
       "id": "F776C17A-FE80-421F-97C2-F477E97D9D12"
     },
     {
-      "class": "shapeGroup",
-      "id": "244A45C1-1ED8-4FFF-969F-143DE915827B"
+      "class": "symbolInstance",
+      "id": "F2EF484B-25F0-481D-8C73-B2FE47041412"
     },
     {
       "class": "text",
       "id": "754FE745-EFE4-4900-9D73-CE285559CFD9"
     },
     {
-      "class": "shapeGroup",
-      "id": "872DA874-DABD-4BA1-9215-9FD3EBD3D6FD"
+      "class": "symbolInstance",
+      "id": "E1CE3EB6-8A4E-49C7-882C-7D6A4CF1179E"
     },
     {
       "class": "text",
@@ -131,10 +131,6 @@
       "id": "15509CD9-9E38-401B-9BBF-8CC8E498851E"
     },
     {
-      "class": "shapeGroup",
-      "id": "F5EEE748-ECDA-4B51-832E-56D40380B3AD"
-    },
-    {
       "class": "text",
       "id": "F7D6BB82-5A82-4F23-ACF7-7BFF91CDBE03"
     },
@@ -147,24 +143,12 @@
       "id": "49354D66-CE8A-4041-A7CD-CF4F4E91F366"
     },
     {
-      "class": "shapeGroup",
-      "id": "083DF7FA-FDA5-413D-A31B-745DBE98F799"
-    },
-    {
       "class": "text",
       "id": "C17D52E6-5C2A-496B-BE3B-CD201729766F"
     },
     {
-      "class": "shapeGroup",
-      "id": "1EC68E34-68CD-42F3-BDB5-38D6EC35E5B8"
-    },
-    {
       "class": "text",
       "id": "7E9B93A3-A808-4A10-963F-3EE29DB57618"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "061B4F67-508F-4748-B186-3EB9864E5356"
     },
     {
       "class": "text",
@@ -183,40 +167,32 @@
       "id": "382B9AE8-D441-47A8-8818-66C1824468D6"
     },
     {
-      "class": "shapeGroup",
-      "id": "C7466E71-8CB2-4100-9EF3-7778730A9E9F"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "47BDC70F-D05F-42D3-B120-96B09DE71822"
-    },
-    {
       "class": "text",
       "id": "A49EF11C-C796-43E1-AC2F-D147E6C467AA"
     },
     {
-      "class": "shapeGroup",
-      "id": "103A15E7-7D34-40BD-BD7B-8681327F0532"
+      "class": "symbolInstance",
+      "id": "846BB853-B757-490A-B514-3F127B00260F"
     },
     {
-      "class": "shapeGroup",
-      "id": "FBB27092-AC73-4FE2-AF3C-21A0917E0304"
+      "class": "symbolInstance",
+      "id": "A2876571-0FF5-474A-8859-7E56E9C9719D"
     },
     {
-      "class": "shapeGroup",
-      "id": "EE581BA8-930E-4042-A8E4-98AB76356A0B"
+      "class": "symbolInstance",
+      "id": "40D394DF-13B5-4A6B-87FF-DF125818837F"
     },
     {
-      "class": "shapeGroup",
-      "id": "0B9DA244-6417-4DEB-AE24-CA004EC7E5CE"
+      "class": "symbolInstance",
+      "id": "04F4B8FC-3DF7-4BD7-9694-8224AF2B92E2"
     },
     {
-      "class": "shapeGroup",
-      "id": "95D533DE-28BF-4D63-B35D-CBCFF379E844"
+      "class": "symbolInstance",
+      "id": "B0E68982-DE2A-486F-B27C-4B197E122B84"
     },
     {
-      "class": "shapeGroup",
-      "id": "DAB1B5B7-053C-483E-9FDA-0CC56D774736"
+      "class": "symbolInstance",
+      "id": "3281A7B1-7F01-44F2-9674-9E28D5ED8E6C"
     }
   ],
   "name": "Radio",

@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "B4310189-4662-4CCD-922D-D3A41D581EDA",
+  "do_objectID": "760E0223-140A-4DAF-9B93-1661DE0F6938",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 124,
-    "x": 908,
-    "y": 442
+    "height": 16,
+    "width": 16,
+    "x": 220,
+    "y": 176
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,7 +24,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "checkbox/check/active/green",
+  "name": "atoms/radio/resting/hover",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,7 +39,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "71B89ECD-FB4D-4ADE-BFCB-8CF3DB968F55",
+  "symbolID": "B4D2CEB6-1F27-458E-85F9-4C5C5890D463",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
