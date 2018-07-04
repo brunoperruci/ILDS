@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4,
+  "changeIdentifier": 6,
   "do_objectID": "722B6554-585D-45E8-9E2F-AD7420999241",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -53,8 +53,8 @@
       "id": "831DE5EC-645D-4F0B-978B-C0EFC6D26DFB"
     }
   ],
-  "name": "checkbox/resting/active/pink",
-  "nameIsFixed": false,
+  "name": "forms/checkbox/resting/active/pink",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

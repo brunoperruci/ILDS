@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4,
+  "changeIdentifier": 6,
   "do_objectID": "651FEAE5-48E8-4C4E-8621-5F8D7E323F05",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -53,8 +53,8 @@
       "id": "5FE274CE-174B-46D5-BFFE-DDD0CBE9A44D"
     }
   ],
-  "name": "checkbox/resting/hover",
-  "nameIsFixed": false,
+  "name": "forms/checkbox/resting/hover",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

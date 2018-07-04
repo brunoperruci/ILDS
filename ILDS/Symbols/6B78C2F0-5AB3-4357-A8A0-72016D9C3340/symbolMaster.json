@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4,
+  "changeIdentifier": 6,
   "do_objectID": "6B78C2F0-5AB3-4357-A8A0-72016D9C3340",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -53,8 +53,8 @@
       "id": "9C3F3A0F-A920-4743-AF36-BF2B8B48ECAD"
     }
   ],
-  "name": "checkbox/resting/active/green",
-  "nameIsFixed": false,
+  "name": "forms/checkbox/resting/active/green",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

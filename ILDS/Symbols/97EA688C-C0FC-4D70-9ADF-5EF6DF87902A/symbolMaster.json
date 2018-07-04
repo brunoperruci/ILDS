@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4,
+  "changeIdentifier": 6,
   "do_objectID": "97EA688C-C0FC-4D70-9ADF-5EF6DF87902A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -53,8 +53,8 @@
       "id": "D1DF187F-C127-4548-B9E1-6C87F4788B9E"
     }
   ],
-  "name": "checkbox/check/standard/pink",
-  "nameIsFixed": false,
+  "name": "forms/checkbox/check/standard/pink",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
