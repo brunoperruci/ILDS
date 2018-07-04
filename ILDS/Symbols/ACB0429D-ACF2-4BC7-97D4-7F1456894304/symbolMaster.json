@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 21,
+  "changeIdentifier": 24,
   "do_objectID": "ACB0429D-ACF2-4BC7-97D4-7F1456894304",
   "exportOptions": {
     "_class": "exportOptions",
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -57,7 +57,7 @@
       "id": "BE442074-45D0-433E-93B4-FDE7256CF116"
     }
   ],
-  "name": "forms/checkbox/check/hover/green",
+  "name": "forms/checkbox/states/selected/hover/green",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -72,6 +72,12 @@
     "startDecorationType": 0
   },
   "symbolID": "4F220BD1-1565-490D-84CA-FB964AB36F2A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

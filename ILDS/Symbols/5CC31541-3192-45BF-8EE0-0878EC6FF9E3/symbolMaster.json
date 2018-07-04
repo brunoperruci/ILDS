@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 7,
+  "changeIdentifier": 9,
   "do_objectID": "5CC31541-3192-45BF-8EE0-0878EC6FF9E3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -57,7 +57,7 @@
       "id": "6F7271ED-FBE1-4ED0-881A-D0318B112914"
     }
   ],
-  "name": "forms/checkbox/check/standard/green",
+  "name": "forms/checkbox/selected/green",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 68,
+  "changeIdentifier": 73,
   "do_objectID": "4F1B7521-DF01-415E-BA3D-E4DFD454B2E6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,10 +24,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "24219DD0-8201-40C2-9EF2-A3A30A7E83AB",
-    "height": 58,
+    "height": 40,
     "width": 256,
     "x": 1299,
-    "y": 2120
+    "y": 2138
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -46,18 +46,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "text",
-      "id": "36CE6D4A-D93D-4988-A7D8-311FCC4A53A4"
-    },
     {
       "class": "symbolInstance",
       "id": "0D8B49AB-5268-4DCC-B704-1C0239B2D5C6"
     }
   ],
-  "name": "forms/searchbox/label/focused",
+  "name": "forms/searchbox/states/focused",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

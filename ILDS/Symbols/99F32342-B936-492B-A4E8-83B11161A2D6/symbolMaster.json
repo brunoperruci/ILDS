@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 60,
+  "changeIdentifier": 117,
   "do_objectID": "99F32342-B936-492B-A4E8-83B11161A2D6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,10 +24,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "076C9D04-4600-47A5-BFE9-C031C7B4CAC1",
-    "height": 58,
+    "height": 40,
     "width": 256,
-    "x": 1328,
-    "y": 1692
+    "x": 1024,
+    "y": 1710
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -46,18 +46,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "text",
-      "id": "F59AE010-708C-4222-A666-D2491A0390B1"
-    },
     {
       "class": "symbolInstance",
       "id": "BE6E929D-AF3C-44DF-8890-B1D1E5FBE125"
     }
   ],
-  "name": "forms/text input/label/filled",
+  "name": "forms/text input/filled",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

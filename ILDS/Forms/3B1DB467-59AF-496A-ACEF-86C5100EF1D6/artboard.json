@@ -24,9 +24,9 @@
     "constrainProportions": false,
     "do_objectID": "F64A5FE4-5EFF-46D2-B6F6-FAD2F63CE8B7",
     "height": 510,
-    "width": 965,
-    "x": 5099,
-    "y": -127
+    "width": 1347,
+    "x": 2444,
+    "y": 431
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -64,11 +64,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "FE67D47A-9A2C-4D6F-A500-39631EF13B56"
-    },
-    {
-      "class": "text",
-      "id": "54D818DD-DD1F-406E-AADC-E8EF45F5A92A"
+      "id": "A2726B99-0ADC-4305-BCE4-47019C246C5F"
     },
     {
       "class": "text",
@@ -76,11 +72,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "760E0223-140A-4DAF-9B93-1661DE0F6938"
-    },
-    {
-      "class": "text",
-      "id": "33BE7F98-F1D7-4DD8-9B26-DD6F4A709ED8"
+      "id": "72F3CA7F-752E-4764-8B9D-EFE64F1D0428"
     },
     {
       "class": "text",
@@ -88,11 +80,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "7D77BC80-61E0-4D4F-BFA7-D85022EF3008"
-    },
-    {
-      "class": "text",
-      "id": "89888D6A-507A-436A-9AD4-D55DB63BCC69"
+      "id": "6B09AC66-CD04-4EF2-A5FF-3E616998A394"
     },
     {
       "class": "text",
@@ -100,19 +88,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "F2EF484B-25F0-481D-8C73-B2FE47041412"
-    },
-    {
-      "class": "text",
-      "id": "754FE745-EFE4-4900-9D73-CE285559CFD9"
+      "id": "95C0F271-A00A-4280-A828-FFE12405EA39"
     },
     {
       "class": "symbolInstance",
-      "id": "E1CE3EB6-8A4E-49C7-882C-7D6A4CF1179E"
-    },
-    {
-      "class": "text",
-      "id": "E02ABBEA-97DF-4B75-AF3D-F77F11B799C6"
+      "id": "AC8F4E98-F9AF-4B83-805F-F4EE582B0719"
     },
     {
       "class": "text",
@@ -128,7 +108,7 @@
     },
     {
       "class": "text",
-      "id": "15509CD9-9E38-401B-9BBF-8CC8E498851E"
+      "id": "DFC644E8-C59F-4D6A-A4D9-E186E0C60A37"
     },
     {
       "class": "text",
@@ -136,23 +116,19 @@
     },
     {
       "class": "text",
+      "id": "66BE5DE9-313A-4529-8A33-4727937F8025"
+    },
+    {
+      "class": "text",
       "id": "55D83F4C-7565-4D91-9AB5-7054C79E4F87"
     },
     {
       "class": "text",
-      "id": "49354D66-CE8A-4041-A7CD-CF4F4E91F366"
-    },
-    {
-      "class": "text",
-      "id": "C17D52E6-5C2A-496B-BE3B-CD201729766F"
+      "id": "FC954063-FC5E-471C-9297-F703879CE7C8"
     },
     {
       "class": "text",
       "id": "7E9B93A3-A808-4A10-963F-3EE29DB57618"
-    },
-    {
-      "class": "text",
-      "id": "DBA83209-8914-4412-AA76-FF1FA2383FAA"
     },
     {
       "class": "text",
@@ -163,36 +139,40 @@
       "id": "3F984E89-BAB6-4E49-B15E-B95F312DA11B"
     },
     {
-      "class": "text",
-      "id": "382B9AE8-D441-47A8-8818-66C1824468D6"
-    },
-    {
-      "class": "text",
-      "id": "A49EF11C-C796-43E1-AC2F-D147E6C467AA"
+      "class": "symbolInstance",
+      "id": "82A5C77A-A462-4E3B-98C2-0BBE7A043455"
     },
     {
       "class": "symbolInstance",
-      "id": "846BB853-B757-490A-B514-3F127B00260F"
+      "id": "CEF7EF92-A26F-4E86-8C82-100744ED2227"
     },
     {
       "class": "symbolInstance",
-      "id": "A2876571-0FF5-474A-8859-7E56E9C9719D"
+      "id": "7C99BF55-5895-4D6A-A3A9-3605BC810714"
     },
     {
       "class": "symbolInstance",
-      "id": "40D394DF-13B5-4A6B-87FF-DF125818837F"
+      "id": "438A6E68-6D8E-40D6-8113-426E7D818BB6"
     },
     {
       "class": "symbolInstance",
-      "id": "04F4B8FC-3DF7-4BD7-9694-8224AF2B92E2"
+      "id": "2D5B02D6-A83F-4CF3-801B-1CC71943E3B2"
     },
     {
       "class": "symbolInstance",
-      "id": "B0E68982-DE2A-486F-B27C-4B197E122B84"
+      "id": "2534DC0E-20FB-4435-A7F8-CD64FA3AB4AF"
     },
     {
       "class": "symbolInstance",
-      "id": "3281A7B1-7F01-44F2-9674-9E28D5ED8E6C"
+      "id": "8DCE8261-58E8-4442-A251-CD7081750ACF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50E86DE4-B51A-477E-B0F2-ED8846B01F77"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4EA9C1B6-0017-4C50-9CDD-92DC828B74AF"
     }
   ],
   "name": "Radio",

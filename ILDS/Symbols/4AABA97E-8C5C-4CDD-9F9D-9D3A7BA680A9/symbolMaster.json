@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 32,
+  "changeIdentifier": 35,
   "do_objectID": "4AABA97E-8C5C-4CDD-9F9D-9D3A7BA680A9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -57,7 +57,7 @@
       "id": "4A46D6D8-498D-45CF-9961-026004D8A2DE"
     }
   ],
-  "name": "forms/checkbox/check/hover/pink",
+  "name": "forms/checkbox/states/selected/hover/pink",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -72,6 +72,12 @@
     "startDecorationType": 0
   },
   "symbolID": "DE6D5814-FE2F-4C4C-AFBB-9F1CDA61AD96",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

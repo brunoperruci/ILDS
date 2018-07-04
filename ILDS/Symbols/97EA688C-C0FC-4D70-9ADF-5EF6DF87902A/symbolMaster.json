@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 6,
+  "changeIdentifier": 8,
   "do_objectID": "97EA688C-C0FC-4D70-9ADF-5EF6DF87902A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,7 +53,7 @@
       "id": "D1DF187F-C127-4548-B9E1-6C87F4788B9E"
     }
   ],
-  "name": "forms/checkbox/check/standard/pink",
+  "name": "forms/checkbox/selected/pink",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

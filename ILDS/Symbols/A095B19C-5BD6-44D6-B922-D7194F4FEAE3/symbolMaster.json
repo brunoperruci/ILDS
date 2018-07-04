@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 188,
+  "changeIdentifier": 195,
   "do_objectID": "A095B19C-5BD6-44D6-B922-D7194F4FEAE3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,10 +24,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6D471252-8A6B-4CEF-9DAD-4DCC1AC85C53",
-    "height": 58,
+    "height": 40,
     "width": 256,
     "x": 1853,
-    "y": 2120
+    "y": 2138
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -46,18 +46,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "text",
-      "id": "4C49D9AB-74EE-4137-B040-D51FFC428D21"
-    },
     {
       "class": "symbolInstance",
       "id": "D576C64C-1CD6-4371-B32B-997E93C5B707"
     }
   ],
-  "name": "forms/searchbox/label/filled/single/hover",
+  "name": "forms/searchbox/states/filled/single hover",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4,
+  "changeIdentifier": 10,
   "do_objectID": "FA2798A4-4F4C-4285-A4E1-3D26A66AE662",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 58,
+    "height": 40,
     "width": 256,
     "x": 1018,
-    "y": 3063
+    "y": 3081
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -42,12 +42,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "text",
-      "id": "024D5D36-1798-49CD-A1E8-718473377D91"
-    },
     {
       "class": "symbolInstance",
       "id": "000FFD8F-C385-4F73-A6F3-E6E9B6F03798"
@@ -57,8 +53,8 @@
       "id": "4C8C2E25-BAA1-4531-AC2F-0C5D73312F6F"
     }
   ],
-  "name": "forms/dropdown/label/resting/hover",
-  "nameIsFixed": false,
+  "name": "forms/dropdown/states/resting/hover",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

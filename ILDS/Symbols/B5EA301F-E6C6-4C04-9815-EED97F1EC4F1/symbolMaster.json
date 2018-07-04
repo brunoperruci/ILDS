@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 6,
+  "changeIdentifier": 12,
   "do_objectID": "B5EA301F-E6C6-4C04-9815-EED97F1EC4F1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 58,
+    "height": 40,
     "width": 256,
     "x": 1018,
-    "y": 2905
+    "y": 2923
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -42,22 +42,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "E093A79C-2EA0-4A01-97A1-19E4A6E42156"
     },
     {
-      "class": "text",
-      "id": "03DBB79F-7F8F-4BFC-A3BB-7A2D819AE96B"
-    },
-    {
       "class": "symbolInstance",
       "id": "6A4DDA4E-C8A4-42DD-955C-35A2777655D6"
     }
   ],
-  "name": "forms/dropdown/label/selected/standard",
+  "name": "forms/dropdown/selected",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

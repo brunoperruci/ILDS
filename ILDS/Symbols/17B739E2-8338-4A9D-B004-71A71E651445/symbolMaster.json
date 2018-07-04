@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 145,
+  "changeIdentifier": 149,
   "do_objectID": "17B739E2-8338-4A9D-B004-71A71E651445",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,10 +24,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "089EE33F-97DB-4833-91AF-E6C019926251",
-    "height": 58,
+    "height": 40,
     "width": 256,
     "x": 1584,
-    "y": 2120
+    "y": 2138
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -46,18 +46,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "text",
-      "id": "F105EEC2-5ECC-4700-9586-59DF5A64E521"
-    },
     {
       "class": "symbolInstance",
       "id": "6942E152-609D-41EB-A960-C224ED60BDEA"
     }
   ],
-  "name": "forms/searchbox/label/filled/single/standard",
+  "name": "forms/searchbox/filled/single",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

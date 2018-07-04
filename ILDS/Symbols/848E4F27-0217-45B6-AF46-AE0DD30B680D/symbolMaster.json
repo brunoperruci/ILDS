@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 25,
+  "changeIdentifier": 31,
   "do_objectID": "848E4F27-0217-45B6-AF46-AE0DD30B680D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,10 +24,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EC8787C5-A3AB-435E-8F85-E9D68CAACD76",
-    "height": 58,
+    "height": 40,
     "width": 256,
     "x": 1018,
-    "y": 2215
+    "y": 2233
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -46,18 +46,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "text",
-      "id": "3EC1AA61-297B-4E48-85AF-A84CF5F8F67B"
-    },
     {
       "class": "symbolInstance",
       "id": "C5B4E841-2FD2-40FB-A64D-3E7D6BA526EE"
     }
   ],
-  "name": "forms/searchbox/label/resting/hover",
+  "name": "forms/searchbox/states/resting hover",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
