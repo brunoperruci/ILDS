@@ -1,0 +1,70 @@
+{
+  "_class": "page",
+  "do_objectID": "B6A12A25-0D0B-4F04-9337-CABD0B32481F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -503,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "F8CD2DA4-8931-40CB-B5ED-98B2B6119A61"
+    },
+    {
+      "class": "artboard",
+      "id": "3D70D81D-606A-47A8-A59D-762038E5D037"
+    },
+    {
+      "class": "artboard",
+      "id": "71008AF4-0107-4A6C-AABC-CD502694162C"
+    },
+    {
+      "class": "artboard",
+      "id": "065F041E-F168-4E06-A2D5-389D0054C618"
+    }
+  ],
+  "name": "Buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -294,
+    "guides": [
+    ]
+  }
+}

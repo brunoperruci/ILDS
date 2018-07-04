@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EAD7B1A9-492B-49E5-81C0-D36777BA41DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1075DCBB-5DF5-4958-B3C5-A5A971A2CED9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9944321D-D61E-4D97-AA81-E9357E991B02",
+    "height": 40,
+    "width": 256,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atoms/forms/text input/placeholder",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A3C9A7DE-0E6D-4D9A-9404-E8353B0D0ACE",
+      "overrideName": "DBD11DEB-3EB8-463F-823B-A62FB19B2EC9_symbolID",
+      "value": "E8FE9811-0E61-477B-9ACD-D1AA8F196F62"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6CE44FE8-094F-4713-B2A7-4B479F0CE12B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "39F07BBE-09C7-440A-B4C4-BC03E4F8EA4B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

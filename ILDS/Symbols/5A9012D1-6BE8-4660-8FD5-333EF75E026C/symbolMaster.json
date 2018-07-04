@@ -1,0 +1,82 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "19ED0DAF-AE22-4ED0-9CA2-BC4E25E2FA3C",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 136,
+  "do_objectID": "5A9012D1-6BE8-4660-8FD5-333EF75E026C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FCD19C1D-4668-4D8A-9FE5-9317BC1B37E2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BDC874EA-DF07-45B8-AA06-36BA11E3A275",
+    "height": 40,
+    "width": 256,
+    "x": 1853,
+    "y": 1980
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A37DBB87-9CF5-4E74-BD46-D872E0FCDAFD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "458E9F6D-51DE-4E76-9492-58737EA4D4DA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "751EDE71-1EC3-45D8-8B95-0909F9FDBAE8"
+    }
+  ],
+  "name": "atoms/forms/searchbox/filled/hover",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AAFB787B-81D8-457B-B94D-F5941D240D27",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CF140058-8EEF-4AE4-8538-FB4BCE738E6A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "22133D5D-DCB1-41B1-B0CC-E8C679570C97",
+    "guides": [
+    ]
+  }
+}
