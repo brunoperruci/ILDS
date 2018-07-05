@@ -1,9 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "4866CA8F-0F75-428B-BD0F-06D349435BDC",
+  "do_objectID": "47FA25A1-4F5D-480D-ABB7-F098E8DCDDC6",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "FB9E72D9-3829-4ACF-AF70-4A7C01498764",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,10 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 8,
-    "width": 8,
-    "x": 740,
-    "y": 314
+    "do_objectID": "09B8222E-ACA4-4D6C-8244-82E2C2E46DCA",
+    "height": 12,
+    "width": 12,
+    "x": 67,
+    "y": 132
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -28,11 +30,11 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "oval",
-      "id": "2F9FC52B-4400-4500-8E8C-22FFE25214A3"
+      "class": "rectangle",
+      "id": "77CB6FF5-BA79-4A1A-8314-1BF056B0A355"
     }
   ],
-  "name": "Oval Copy",
+  "name": "Rectangle Copy 6",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,17 +47,18 @@
         "_class": "border",
         "color": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "alpha": 0.13,
+          "blue": 0.396078431372549,
+          "green": 0.2862745098039216,
+          "red": 0.2431372549019608
         },
         "fillType": 0,
         "isEnabled": false,
-        "position": 0,
+        "position": 1,
         "thickness": 1
       }
     ],
+    "do_objectID": "4EB9D5CF-D965-4B0C-8094-266E526D43A2",
     "endDecorationType": 0,
     "fills": [
       {
@@ -63,8 +66,8 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5843137254901959,
-          "green": 0.3098039215686275,
+          "blue": 1,
+          "green": 1,
           "red": 1
         },
         "fillType": 0,
@@ -83,15 +86,15 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 8,
+            "constant": 16,
             "enabled": 1,
-            "modelID": "constraint_069c538e-13b5-4a56-ad7d-cad51ce80ba6",
+            "modelID": "constraint_d4d1d0f9-9023-43af-9d1f-b7af8c89baca",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 8
+            "multiplier": 16
           },
           "automatic": 1,
-          "modelID": "viewConstraints_c38b3b38-90e5-43e0-b243-915b239f5c7e",
+          "modelID": "viewConstraints_03a3ab7b-3472-4b53-843e-5476c3bb17d2",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1
