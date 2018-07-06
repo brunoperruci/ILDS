@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 6,
+  "changeIdentifier": 23,
   "do_objectID": "3E4D326C-7FCE-473D-A7F7-E664445D3C0E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 660
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,11 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "C93B8489-7BF7-4C15-B74F-B8EA5A0998F6"
+      "id": "59ECEAB0-4192-498D-A7E8-7CFBBD8B1388"
+    },
+    {
+      "class": "text",
+      "id": "5DC42422-C4EC-4289-BD27-1FA8072D7078"
     }
   ],
   "name": "button/secondary/icon/states/disabled",

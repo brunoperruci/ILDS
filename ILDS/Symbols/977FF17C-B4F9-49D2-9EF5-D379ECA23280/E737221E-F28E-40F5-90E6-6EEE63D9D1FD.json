@@ -66,7 +66,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Button Label Copy",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 2,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

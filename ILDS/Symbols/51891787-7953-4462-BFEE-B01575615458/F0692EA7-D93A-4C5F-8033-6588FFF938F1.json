@@ -54,7 +54,7 @@
     "height": 24,
     "width": 24,
     "x": 8,
-    "y": 3
+    "y": 4
   },
   "glyphBounds": "{{2, 5}, {20, 14}}",
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Icon",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 27,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

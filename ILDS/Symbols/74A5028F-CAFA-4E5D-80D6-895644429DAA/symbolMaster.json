@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 8,
+  "changeIdentifier": 22,
   "do_objectID": "74A5028F-CAFA-4E5D-80D6-895644429DAA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 1716
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,11 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "F6ED9CCA-FAFB-4DB4-A3EC-83B6C3D373FB"
+      "id": "92982E54-6D50-43B2-9D59-5BD7131F4B2B"
+    },
+    {
+      "class": "text",
+      "id": "5706897A-15CF-4385-B986-BB735CFF0BDC"
     }
   ],
   "name": "button/primary/label/states/pink/disabled",
