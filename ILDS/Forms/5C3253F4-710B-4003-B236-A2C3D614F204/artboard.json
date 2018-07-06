@@ -24,12 +24,12 @@
     "constrainProportions": false,
     "do_objectID": "6AA78F7D-74D4-4CB1-9A38-1805CAF66B6A",
     "height": 510,
-    "width": 1176,
+    "width": 1552,
     "x": 2444,
     "y": 989
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -60,6 +60,18 @@
     },
     {
       "class": "symbolInstance",
+      "id": "455E3D0D-967C-4C75-95DB-F79F236E2344"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CFF00D8C-635D-4B25-8FA4-A4032A7BB2A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E779325-D215-4E19-A4AE-4FF17BED75BC"
+    },
+    {
+      "class": "symbolInstance",
       "id": "7B6EA753-D87C-4AE0-A60C-3E31A79B3CC8"
     },
     {
@@ -77,6 +89,18 @@
     {
       "class": "text",
       "id": "FE5EDC54-0E08-4E30-BBD4-B6490B46610C"
+    },
+    {
+      "class": "text",
+      "id": "BA972940-0443-4DA0-AB79-EDFF45B2AAE8"
+    },
+    {
+      "class": "text",
+      "id": "8EB1B4DD-7CFA-4CA2-9FC1-504B32D3B138"
+    },
+    {
+      "class": "text",
+      "id": "AA184352-4A85-4848-9F54-2BB5AD9767B4"
     },
     {
       "class": "text",
@@ -188,6 +212,18 @@
     },
     {
       "class": "symbolInstance",
+      "id": "706B368F-5F24-4E75-AC71-B10EF31BD066"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "280EFF7C-C8A0-4810-973D-608605F1979F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8818F59B-C7BD-4EF6-B865-ED262842757C"
+    },
+    {
+      "class": "symbolInstance",
       "id": "E936EF1D-615C-4A51-9E03-7E75D9554E56"
     },
     {
@@ -197,6 +233,18 @@
     {
       "class": "text",
       "id": "C2516D63-0237-42B3-BFCC-1845C64C31F7"
+    },
+    {
+      "class": "text",
+      "id": "5EC33DEC-3FD7-4D37-AFCE-351FE9688583"
+    },
+    {
+      "class": "text",
+      "id": "25405C5C-E89C-4B84-8C71-D1D900705D3D"
+    },
+    {
+      "class": "text",
+      "id": "2D13C3A4-DD65-4547-A8AD-268F28889AD3"
     },
     {
       "class": "text",
