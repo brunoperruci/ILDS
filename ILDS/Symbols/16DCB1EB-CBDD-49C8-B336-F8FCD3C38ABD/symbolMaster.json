@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4,
+  "changeIdentifier": 6,
   "do_objectID": "16DCB1EB-CBDD-49C8-B336-F8FCD3C38ABD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,15 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "57BE389D-6BDA-4235-B06F-FE65BFA1E032"
     }
   ],
-  "name": "button/secondary/icon + label/disabled",
-  "nameIsFixed": false,
+  "name": "button/secondary/icon + label/states/disabled",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

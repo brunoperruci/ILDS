@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 7,
+  "changeIdentifier": 8,
   "do_objectID": "74A5028F-CAFA-4E5D-80D6-895644429DAA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,7 +49,7 @@
       "id": "F6ED9CCA-FAFB-4DB4-A3EC-83B6C3D373FB"
     }
   ],
-  "name": "button/primary/label/pink/disabled",
+  "name": "button/primary/label/states/pink/disabled",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

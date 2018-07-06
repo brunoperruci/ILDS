@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 6,
+  "changeIdentifier": 7,
   "do_objectID": "C13A5316-9CAB-48E8-A1B7-FDBB711575CB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,7 +49,7 @@
       "id": "0FDAE47F-426E-49FC-B427-86C030CB6DBA"
     }
   ],
-  "name": "button/outline/label/green/disabled",
+  "name": "button/outline/label/states/green/disabled",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

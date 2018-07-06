@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 6,
+  "changeIdentifier": 7,
   "do_objectID": "98F0CE86-6ACC-4D01-8BFF-123201F9EE39",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,7 +53,7 @@
       "id": "3F49E825-9183-4A19-B12B-64AE28AB43F2"
     }
   ],
-  "name": "button/outline/label/green/standard",
+  "name": "button/outline/label/green",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

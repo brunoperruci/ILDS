@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 6,
+  "changeIdentifier": 7,
   "do_objectID": "604B6EE5-E206-4461-8A6F-DFA96938A568",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,14 +42,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "F8753A62-278B-4AAF-8C07-FFB70DB6F73A"
     }
   ],
-  "name": "button/subtle/label/green/disabled",
+  "name": "button/subtle/label/states/green/disabled",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

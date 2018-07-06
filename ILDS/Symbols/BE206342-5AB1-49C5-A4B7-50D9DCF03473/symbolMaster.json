@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4,
+  "changeIdentifier": 6,
   "do_objectID": "BE206342-5AB1-49C5-A4B7-50D9DCF03473",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,15 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "6FB2540C-0523-4B97-AC56-D605FFEF57A0"
     }
   ],
-  "name": "button/subtle/label/pink/disabled",
-  "nameIsFixed": false,
+  "name": "button/subtle/label/states/pink/disabled",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

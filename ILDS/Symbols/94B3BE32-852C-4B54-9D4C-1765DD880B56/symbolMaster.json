@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4,
+  "changeIdentifier": 6,
   "do_objectID": "94B3BE32-852C-4B54-9D4C-1765DD880B56",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -53,8 +53,8 @@
       "id": "4C89D8C5-C4C3-4D78-9FF1-A196A2F8B183"
     }
   ],
-  "name": "button/subtle/label/blue/active",
-  "nameIsFixed": false,
+  "name": "button/subtle/label/states/blue/active",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

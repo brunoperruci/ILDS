@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4,
+  "changeIdentifier": 6,
   "do_objectID": "0286B688-93BA-407B-B1AD-2A64E3226227",
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,8 +49,8 @@
       "id": "DE4CDB2F-93B0-4CA1-8578-0035AD93B941"
     }
   ],
-  "name": "button/subtle/icon + label/green/disabled",
-  "nameIsFixed": false,
+  "name": "button/subtle/icon + label/states/green/disabled",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
