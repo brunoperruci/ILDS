@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5EF211C4-B97C-43B0-BF78-80F73BAF0EBB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D9C354E9-F1EA-4F41-849F-5C841D701648",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "638EECB1-4142-4694-A733-D04F4A02985B",
+    "height": 39,
+    "width": 95,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tabs/with-bg/selected copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B2C9674A-5162-45BA-A611-F0179F3C4856",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "ED40FDCE-EC67-4A4E-9F11-FDECA08B17F9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "tabsWithBgSelectedCopy",
+        "variableIDSketchID": "D8EC466A-4A8E-4146-A3B0-BCABED8A75C7"
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
