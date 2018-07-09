@@ -21,9 +21,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 488,
-    "width": 416,
+    "width": 600,
     "x": -138,
-    "y": -280
+    "y": -275
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -55,6 +55,10 @@
       "id": "DDFCC4D9-B9B6-4505-9DD1-1E6BB4204E1E"
     },
     {
+      "class": "symbolInstance",
+      "id": "A8986300-95B9-4D68-A512-B101C6FA23D5"
+    },
+    {
       "class": "text",
       "id": "11473E35-AD0A-447E-B702-5A152DBA9108"
     },
@@ -73,6 +77,10 @@
     {
       "class": "text",
       "id": "A7DC7925-9F77-4B12-B8D8-335C83E9B036"
+    },
+    {
+      "class": "text",
+      "id": "F7909477-208F-4ECA-B869-9956B72EA2B4"
     }
   ],
   "name": "Tags",

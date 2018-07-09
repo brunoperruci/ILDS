@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 11,
+  "changeIdentifier": 28,
   "do_objectID": "37268DCA-D809-43A3-94F7-57569E2AD210",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 32,
     "width": 128,
-    "x": 408,
-    "y": 660
+    "x": 3222,
+    "y": 1980
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,7 +53,7 @@
       "id": "89FE7118-1DDE-4A33-AFEA-EE5D072CB932"
     }
   ],
-  "name": "button/primary/label/blue/active",
+  "name": "button/primary/label/states/blue/active",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

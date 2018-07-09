@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 77,
+  "changeIdentifier": 168,
   "do_objectID": "215DC674-FD65-4185-B333-CFC771B7F63E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,13 +24,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "41874250-D05B-4CF8-AC19-3C15E08F0571",
-    "height": 58,
+    "height": 40,
     "width": 256,
-    "x": 1328,
-    "y": 1336
+    "x": 6440,
+    "y": 560
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,18 +46,26 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "9402F63E-C9C0-4DC3-BC43-AB5CA10CAA19"
+    },
+    {
       "class": "text",
-      "id": "DCED5195-6ACB-4E2B-BE1C-1D7B33024519"
+      "id": "B688972E-C171-49F7-82B0-343E9F749EF0"
     },
     {
       "class": "symbolInstance",
-      "id": "CF05E7E4-5B84-4D7F-8613-7B7A9E84F63F"
+      "id": "02B5D88A-B25D-46FB-8394-6E4B702355A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1606B7FB-C684-4358-8D44-9C5424281520"
     }
   ],
-  "name": "forms/text input/label/error",
+  "name": "forms/text input/states/error",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

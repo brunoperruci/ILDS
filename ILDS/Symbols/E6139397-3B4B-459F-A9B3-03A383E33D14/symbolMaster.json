@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 21,
+  "changeIdentifier": 109,
   "do_objectID": "E6139397-3B4B-459F-A9B3-03A383E33D14",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 32,
     "width": 150,
-    "x": 636,
+    "x": 3922,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -57,7 +57,7 @@
       "id": "FB7F9B67-FD0D-4C15-8988-88BBE85593E6"
     }
   ],
-  "name": "button/subtle/icon + label/blue/standard",
+  "name": "button/subtle/icon + label/blue",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

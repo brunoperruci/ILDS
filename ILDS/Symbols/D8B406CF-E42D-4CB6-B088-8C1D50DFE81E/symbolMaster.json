@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 23,
+  "changeIdentifier": 77,
   "do_objectID": "D8B406CF-E42D-4CB6-B088-8C1D50DFE81E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 150,
-    "x": 636,
-    "y": 1188
+    "x": 3922,
+    "y": 1056
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -57,9 +57,9 @@
       "id": "023D515E-E920-4A68-BF49-0339784BBF10"
     }
   ],
-  "name": "button/subtle/icon + label/green/hover",
+  "name": "button/subtle/icon + label/states/green/hover",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -16,12 +16,12 @@
     "height": 40,
     "width": 256,
     "x": 0,
-    "y": 18
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "atoms/forms/container/focused",

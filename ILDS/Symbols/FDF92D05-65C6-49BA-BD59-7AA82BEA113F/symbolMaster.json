@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 6,
+  "changeIdentifier": 20,
   "do_objectID": "FDF92D05-65C6-49BA-BD59-7AA82BEA113F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 32,
     "width": 128,
-    "x": 408,
-    "y": 2376
+    "x": 3222,
+    "y": 2640
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,7 +53,7 @@
       "id": "4A6A133D-5F64-4141-8AF5-8DE84186C5AB"
     }
   ],
-  "name": "button/primary/label/green/hover",
+  "name": "button/primary/label/states/green/hover",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 6,
+  "changeIdentifier": 37,
   "do_objectID": "C13A5316-9CAB-48E8-A1B7-FDBB711575CB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 32,
     "width": 128,
-    "x": 408,
-    "y": 6864
+    "x": 2872,
+    "y": 2508
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,10 +46,14 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "0FDAE47F-426E-49FC-B427-86C030CB6DBA"
+      "id": "95B5DEDA-9127-4FB9-AA17-F3DD4E691054"
+    },
+    {
+      "class": "text",
+      "id": "5D08EE9A-6FA8-44BD-AD72-457D7B7693C5"
     }
   ],
-  "name": "button/outline/label/green/disabled",
+  "name": "button/outline/label/states/green/disabled",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

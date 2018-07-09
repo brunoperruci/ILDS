@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 145,
+  "changeIdentifier": 190,
   "do_objectID": "17B739E2-8338-4A9D-B004-71A71E651445",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,13 +24,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "089EE33F-97DB-4833-91AF-E6C019926251",
-    "height": 58,
+    "height": 40,
     "width": 256,
-    "x": 1584,
-    "y": 2120
+    "x": 5376,
+    "y": 140
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,20 +46,24 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "0F6C273D-40E8-4D26-9ABA-1B40E3505769"
+    },
+    {
       "class": "text",
-      "id": "F105EEC2-5ECC-4700-9586-59DF5A64E521"
+      "id": "B874E35B-A684-4F05-B302-C2296EDA14D0"
     },
     {
       "class": "symbolInstance",
-      "id": "6942E152-609D-41EB-A960-C224ED60BDEA"
+      "id": "A4FE04CA-7FBF-4697-89D3-B48F79FC48B5"
     }
   ],
-  "name": "forms/searchbox/label/filled/single/standard",
+  "name": "forms/searchbox/filled/single",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

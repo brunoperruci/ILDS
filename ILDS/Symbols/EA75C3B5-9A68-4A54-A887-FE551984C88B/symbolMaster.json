@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 13,
+  "changeIdentifier": 89,
   "do_objectID": "EA75C3B5-9A68-4A54-A887-FE551984C88B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 150,
-    "x": 636,
-    "y": 2772
+    "x": 3222,
+    "y": 1056
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -57,9 +57,9 @@
       "id": "6E314514-9A8B-409F-B4ED-FED7D1AB3A60"
     }
   ],
-  "name": "button/primary/label + icon/green/hover",
+  "name": "button/primary/label + icon/states/green/hover",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

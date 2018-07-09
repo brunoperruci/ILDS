@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 9,
+  "changeIdentifier": 71,
   "do_objectID": "C57EBF69-66EB-4003-8FE0-4734D7C9137C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 150,
-    "x": 636,
-    "y": 4752
+    "x": 2872,
+    "y": 132
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -57,9 +57,9 @@
       "id": "D6D4E5CF-FA7B-4244-B57E-54CA6E9C230C"
     }
   ],
-  "name": "button/outline/icon + label/green/standard",
-  "nameIsFixed": false,
-  "resizesContent": false,
+  "name": "button/outline/icon + label/green",
+  "nameIsFixed": true,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

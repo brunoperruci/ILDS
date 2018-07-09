@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3,
+  "changeIdentifier": 78,
   "do_objectID": "3821E109-BFA8-403E-8B31-ED9B2A753526",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 58,
+    "height": 40,
     "width": 864,
-    "x": 2942,
-    "y": 22
+    "x": 5376,
+    "y": 560
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,36 +42,24 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "text",
-      "id": "61E3E472-8BB7-408E-9C64-8A20F95D20C1"
-    },
     {
       "class": "symbolInstance",
       "id": "29DA489F-2E11-4CC2-9463-127D41EC5FBC"
-    },
-    {
-      "class": "text",
-      "id": "FB8E8FBE-9401-450D-A4B8-345FD88243BF"
     },
     {
       "class": "symbolInstance",
       "id": "36FD76C2-B602-4453-9D33-72958C2B2247"
     },
     {
-      "class": "symbolInstance",
-      "id": "D4896167-8425-427A-81B8-A871565E2237"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F4F097D5-CBB3-4648-8F51-81131DB78AA1"
+      "class": "group",
+      "id": "AB769E42-C6FC-40A0-B72C-B360C21424D2"
     }
   ],
-  "name": "forms/searchbox/label/filled/multi/hover",
-  "nameIsFixed": false,
-  "resizesContent": false,
+  "name": "forms/searchbox/states/filled/multi hover",
+  "nameIsFixed": true,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -83,6 +71,12 @@
     "startDecorationType": 0
   },
   "symbolID": "100EE833-73C7-4EC3-AA33-41B48716F68B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

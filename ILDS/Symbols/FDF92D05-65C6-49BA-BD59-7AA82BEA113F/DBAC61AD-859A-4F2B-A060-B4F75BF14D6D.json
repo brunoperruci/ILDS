@@ -21,10 +21,10 @@
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atoms/button/container/green/hover",
+  "name": "atoms/button/container/green/hover [0 12]",
   "nameIsFixed": false,
   "overrideValues": [
   ],

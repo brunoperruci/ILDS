@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 228,
+  "changeIdentifier": 273,
   "do_objectID": "21146AFF-223C-4D3D-8082-A41483E190C5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,13 +24,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1FD702D6-EF9B-422E-86D2-FE61421B032A",
-    "height": 58,
+    "height": 40,
     "width": 256,
-    "x": 2134,
-    "y": 2120
+    "x": 5376,
+    "y": 420
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,20 +46,24 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "6295B276-E5A7-441B-8240-715ECDDA5507"
+    },
+    {
       "class": "text",
-      "id": "EF0E7709-6B5D-4A7E-B0B2-AE0C75460C2D"
+      "id": "EB750F28-0826-4BC5-B229-481F13500542"
     },
     {
       "class": "symbolInstance",
-      "id": "420B26FB-9928-4208-AFB4-6D9D2885A2F8"
+      "id": "5D3CE768-DA0D-4E47-B910-E52493B8767C"
     }
   ],
-  "name": "forms/searchbox/single/label/disabled",
+  "name": "forms/searchbox/states/disabled",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

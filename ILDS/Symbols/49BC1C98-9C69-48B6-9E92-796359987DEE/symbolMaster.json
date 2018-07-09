@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 114,
+  "changeIdentifier": 191,
   "do_objectID": "49BC1C98-9C69-48B6-9E92-796359987DEE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,13 +24,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "78BACA50-4F30-4EA4-B214-2E2214CD9C33",
-    "height": 58,
+    "height": 40,
     "width": 256,
-    "x": 1328,
-    "y": 1158
+    "x": 6440,
+    "y": 700
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,18 +46,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "text",
-      "id": "44691FC4-8B38-46C8-AB99-1E4892A7DB0D"
+      "class": "symbolInstance",
+      "id": "84E87BA6-C2B7-4E05-91BC-D431A3175AE7"
     },
     {
-      "class": "symbolInstance",
-      "id": "B987AD2A-B3F8-4430-8F4A-DF42FE2AEF68"
+      "class": "group",
+      "id": "0009BEF9-4A6C-441D-971E-E8DC50F6DC10"
     }
   ],
-  "name": "forms/text input/label/focused",
+  "name": "forms/text input/states/focused",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

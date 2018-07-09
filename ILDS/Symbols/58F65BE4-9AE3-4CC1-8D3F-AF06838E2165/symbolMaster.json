@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 13,
+  "changeIdentifier": 2046,
   "do_objectID": "58F65BE4-9AE3-4CC1-8D3F-AF06838E2165",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 150,
-    "x": 636,
-    "y": 1584
+    "x": 3222,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -32,6 +32,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      -43
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -42,7 +43,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -57,7 +58,7 @@
       "id": "0ED7556B-7D58-43DA-9161-8AE241498628"
     }
   ],
-  "name": "button/primary/label + icon/blue/standard",
+  "name": "button/primary/label + icon/blue",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

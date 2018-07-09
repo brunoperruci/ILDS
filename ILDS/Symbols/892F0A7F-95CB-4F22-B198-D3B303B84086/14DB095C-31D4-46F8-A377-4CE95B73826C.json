@@ -24,7 +24,7 @@
           "kerning": 0.3300000131130219,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 32,
             "minimumLineHeight": 32
@@ -64,9 +64,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Button Label Copy 2",
+  "name": "Label",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 2,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -96,7 +96,7 @@
         "kerning": 0.3300000131130219,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 32,
           "minimumLineHeight": 32

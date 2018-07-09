@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4,
+  "changeIdentifier": 23,
   "do_objectID": "D5832B9E-435A-4B7B-9575-E2E7B4DDDF90",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 32,
     "width": 128,
-    "x": 408,
-    "y": 8184
+    "x": 3922,
+    "y": 2376
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -53,8 +53,8 @@
       "id": "A1D5E1FD-6D2D-44B8-8C38-C370AD2B4630"
     }
   ],
-  "name": "button/subtle/label/green/active",
-  "nameIsFixed": false,
+  "name": "button/subtle/label/states/green/active",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

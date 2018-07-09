@@ -16,12 +16,12 @@
     "height": 24,
     "width": 24,
     "x": 224,
-    "y": 26
+    "y": 8
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "atoms/icons/inline/icon",
@@ -33,7 +33,7 @@
       "value": "keyboard_arrow_down"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 44,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
