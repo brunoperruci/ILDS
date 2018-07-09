@@ -1,12 +1,12 @@
 {
   "_class": "sharedStyle",
-  "do_objectID": "B1196D03-D0A2-4536-A8DD-D86A2B2768A4",
-  "name": "tabs/selected/blue",
+  "do_objectID": "C975D60C-4E62-4B69-B16A-5DF68C542F0A",
+  "name": "tabs/selected/green",
   "value": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "B1196D03-D0A2-4536-A8DD-D86A2B2768A4",
+    "sharedObjectID": "C975D60C-4E62-4B69-B16A-5DF68C542F0A",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -14,9 +14,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.984313725490196,
-          "green": 0.4470588235294119,
-          "red": 0.2274509803921569
+          "blue": 0.05490196078431371,
+          "green": 0.8,
+          "red": 0.6549019607843138
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

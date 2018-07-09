@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 280,
+  "changeIdentifier": 282,
   "do_objectID": "AAB23610-A347-45E3-A790-7D88113EA3F0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 13
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -57,7 +57,7 @@
       "id": "565F93B6-E0B2-4A6B-8268-E0809A1AF62D"
     }
   ],
-  "name": "tabs/selected",
+  "name": "tabs/without-bg/selected/blue",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
