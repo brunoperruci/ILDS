@@ -59,8 +59,12 @@
       "id": "C14138A3-54E1-4FD7-B8AF-4928F4D5A0CE"
     },
     {
-      "class": "group",
-      "id": "E2A69EF0-D4BC-491B-A255-37AF3706B843"
+      "class": "symbolInstance",
+      "id": "57537C7D-46B8-4C6F-A830-B0A60603ACA3"
+    },
+    {
+      "class": "text",
+      "id": "FD597B8F-5F3C-41E4-BCA0-29B58333EC0B"
     },
     {
       "class": "group",

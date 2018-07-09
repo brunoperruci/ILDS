@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 35,
+  "changeIdentifier": 67,
   "do_objectID": "02571875-26B8-4197-A27D-81AFEC807C3C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,12 +53,8 @@
       "id": "F1EDDABE-0445-44D8-A488-2869875D6E20"
     },
     {
-      "class": "symbolInstance",
-      "id": "C11572D4-6D44-4671-80D8-4EFF9C46D256"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5EF79EA8-D3E1-43BF-B5D9-78302A1A7EF5"
+      "class": "group",
+      "id": "58966703-0459-467A-8226-1BECDBE259B4"
     },
     {
       "class": "text",
@@ -67,7 +63,7 @@
   ],
   "name": "tag/removable/states/remove active",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

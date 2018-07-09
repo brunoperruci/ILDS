@@ -54,7 +54,7 @@
     "constrainProportions": false,
     "do_objectID": "922190BB-56F4-471A-A268-C9B81FA1F164",
     "height": 20,
-    "width": 108,
+    "width": 232,
     "x": 12,
     "y": 10
   },
@@ -67,7 +67,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Input placeholder",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -113,11 +113,11 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }
