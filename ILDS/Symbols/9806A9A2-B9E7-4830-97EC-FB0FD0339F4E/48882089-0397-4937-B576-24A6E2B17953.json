@@ -21,7 +21,7 @@
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "atoms/icons/inline/icon copy 2",
@@ -33,7 +33,7 @@
       "value": "cancel"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 44,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

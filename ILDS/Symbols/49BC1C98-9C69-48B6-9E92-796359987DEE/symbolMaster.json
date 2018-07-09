@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 172,
+  "changeIdentifier": 182,
   "do_objectID": "49BC1C98-9C69-48B6-9E92-796359987DEE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,7 +30,7 @@
     "y": 1176
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,11 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "B987AD2A-B3F8-4430-8F4A-DF42FE2AEF68"
+      "id": "84E87BA6-C2B7-4E05-91BC-D431A3175AE7"
+    },
+    {
+      "class": "group",
+      "id": "0009BEF9-4A6C-441D-971E-E8DC50F6DC10"
     }
   ],
   "name": "forms/text input/states/focused",

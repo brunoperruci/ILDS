@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 147,
+  "changeIdentifier": 159,
   "do_objectID": "551BEDB4-605C-4A43-8576-5655A4137FAE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,7 +30,7 @@
     "y": 929
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,11 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "CE078D8A-DA37-4018-8E50-7A75833D5228"
+      "id": "88D0A125-5705-44B9-A29F-DA0596F333AD"
+    },
+    {
+      "class": "text",
+      "id": "DC618F9A-04D4-4533-86E7-E5773DD85AB0"
     }
   ],
   "name": "forms/text input/resting",

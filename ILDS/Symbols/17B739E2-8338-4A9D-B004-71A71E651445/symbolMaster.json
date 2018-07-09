@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 149,
+  "changeIdentifier": 182,
   "do_objectID": "17B739E2-8338-4A9D-B004-71A71E651445",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,7 +30,7 @@
     "y": 2138
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,16 +46,24 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "6942E152-609D-41EB-A960-C224ED60BDEA"
+      "id": "0F6C273D-40E8-4D26-9ABA-1B40E3505769"
+    },
+    {
+      "class": "text",
+      "id": "B874E35B-A684-4F05-B302-C2296EDA14D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A4FE04CA-7FBF-4697-89D3-B48F79FC48B5"
     }
   ],
   "name": "forms/searchbox/filled/single",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

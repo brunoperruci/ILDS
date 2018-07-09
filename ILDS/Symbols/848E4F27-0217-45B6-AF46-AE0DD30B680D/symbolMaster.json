@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 31,
+  "changeIdentifier": 61,
   "do_objectID": "848E4F27-0217-45B6-AF46-AE0DD30B680D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,7 +30,7 @@
     "y": 2233
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,16 +46,24 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "C5B4E841-2FD2-40FB-A64D-3E7D6BA526EE"
+      "id": "FA42D944-5A95-4296-AF1E-1F7A23087A94"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "169CF659-03B7-4A7B-B0A1-A2BA9DE3ACF9"
+    },
+    {
+      "class": "text",
+      "id": "ACF81381-EE5B-4228-A9B0-7D82F5AE9B09"
     }
   ],
   "name": "forms/searchbox/states/resting hover",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

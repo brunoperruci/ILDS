@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 11,
+  "changeIdentifier": 26,
   "do_objectID": "37C5AD1B-3C28-4425-A48A-EA0D9A722331",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 2607
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,11 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "CC48B807-C880-41C2-A125-2787DF73F7EA"
+      "id": "FEEED7E9-A775-46A4-9BDE-B5160407F530"
+    },
+    {
+      "class": "text",
+      "id": "55F615A2-7A11-442F-AB8B-67047120C621"
     },
     {
       "class": "symbolInstance",
@@ -55,7 +59,7 @@
   ],
   "name": "forms/dropdown/resting",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

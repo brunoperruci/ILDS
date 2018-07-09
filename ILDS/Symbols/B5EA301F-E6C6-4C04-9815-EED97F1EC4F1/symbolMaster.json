@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 12,
+  "changeIdentifier": 28,
   "do_objectID": "B5EA301F-E6C6-4C04-9815-EED97F1EC4F1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 2923
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,11 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "E093A79C-2EA0-4A01-97A1-19E4A6E42156"
+      "id": "A0842920-3AFA-4D75-B2CB-17E7DB62C90C"
+    },
+    {
+      "class": "text",
+      "id": "CC1BB3C7-C7E9-47F5-9F93-DDC9D9C361E8"
     },
     {
       "class": "symbolInstance",
@@ -55,7 +59,7 @@
   ],
   "name": "forms/dropdown/selected",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

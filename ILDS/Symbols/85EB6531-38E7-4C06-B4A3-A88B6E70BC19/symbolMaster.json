@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 202,
+  "changeIdentifier": 212,
   "do_objectID": "85EB6531-38E7-4C06-B4A3-A88B6E70BC19",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,7 +30,7 @@
     "y": 1820
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,11 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "4DAD4D28-DDBE-4A0F-B78B-B6FAB65BB82F"
+      "id": "88DC99A7-8FA9-409E-B2C9-CDACFDD7E3A2"
+    },
+    {
+      "class": "text",
+      "id": "9780F172-E76E-4612-9484-5BFD8EFDC44C"
     }
   ],
   "name": "forms/text input/states/disabled",

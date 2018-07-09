@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 10,
+  "changeIdentifier": 26,
   "do_objectID": "9806A9A2-B9E7-4830-97EC-FB0FD0339F4E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 3239
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,7 +46,11 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "06304D5A-7F90-4136-9D74-8806921A0D2F"
+      "id": "23DE1EC3-6C7C-4D67-B80D-BA069CCD1A13"
+    },
+    {
+      "class": "text",
+      "id": "FCA67856-255E-4610-A625-E52986CAD848"
     },
     {
       "class": "symbolInstance",
@@ -55,7 +59,7 @@
   ],
   "name": "forms/dropdown/states/selected/hover",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

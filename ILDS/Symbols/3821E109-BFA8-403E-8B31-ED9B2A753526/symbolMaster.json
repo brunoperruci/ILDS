@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 33,
+  "changeIdentifier": 70,
   "do_objectID": "3821E109-BFA8-403E-8B31-ED9B2A753526",
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,20 +49,12 @@
       "id": "29DA489F-2E11-4CC2-9463-127D41EC5FBC"
     },
     {
-      "class": "text",
-      "id": "FB8E8FBE-9401-450D-A4B8-345FD88243BF"
-    },
-    {
       "class": "symbolInstance",
       "id": "36FD76C2-B602-4453-9D33-72958C2B2247"
     },
     {
-      "class": "symbolInstance",
-      "id": "D4896167-8425-427A-81B8-A871565E2237"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F4F097D5-CBB3-4648-8F51-81131DB78AA1"
+      "class": "group",
+      "id": "AB769E42-C6FC-40A0-B72C-B360C21424D2"
     }
   ],
   "name": "forms/searchbox/states/filled/multi hover",

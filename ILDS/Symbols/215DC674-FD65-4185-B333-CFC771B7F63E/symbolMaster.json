@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 135,
+  "changeIdentifier": 159,
   "do_objectID": "215DC674-FD65-4185-B333-CFC771B7F63E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,7 +30,7 @@
     "y": 1354
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,11 +46,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "CF05E7E4-5B84-4D7F-8613-7B7A9E84F63F"
+      "id": "9402F63E-C9C0-4DC3-BC43-AB5CA10CAA19"
+    },
+    {
+      "class": "text",
+      "id": "B688972E-C171-49F7-82B0-343E9F749EF0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "02B5D88A-B25D-46FB-8394-6E4B702355A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1606B7FB-C684-4358-8D44-9C5424281520"
     }
   ],
   "name": "forms/text input/states/error",
