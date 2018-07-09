@@ -76,8 +76,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "9395951F-3A90-49D9-B2E7-3F8D1B857993",
-      "opacity": 0.5
+      "opacity": 0.3299999833106995
     },
     "do_objectID": "BD0B62A1-7207-4867-AF6D-FA40BEFCD095",
     "endDecorationType": 0,
@@ -86,7 +85,6 @@
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "C99AC129-5150-424B-9564-061A989B5E29",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
