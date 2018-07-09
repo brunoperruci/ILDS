@@ -195,16 +195,76 @@
       "id": "253DE4F6-D654-4592-9A99-A7FB629C61AB"
     },
     {
-      "class": "group",
-      "id": "2C38D17E-6A63-47CA-9181-B63E629A3753"
+      "class": "text",
+      "id": "A3727B06-6765-432F-9E05-899685C216C3"
     },
     {
-      "class": "group",
-      "id": "9F810EC6-2846-4059-B0F3-CB2BCD4B2310"
+      "class": "text",
+      "id": "8756189C-FBC0-4704-BCD2-70AFBE87462A"
     },
     {
-      "class": "group",
-      "id": "D1ABA9A2-D5F2-4067-A152-D58FB4BF1A33"
+      "class": "text",
+      "id": "1B8A54FD-A1F6-403E-ABB4-F29ECD7627AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DBFBAB22-3BA4-40C0-881E-F6D5194495A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1AD9233-87FA-4A0C-822D-83673FB8AD2C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBFD7AEB-6487-4916-9515-1D730C47BF41"
+    },
+    {
+      "class": "text",
+      "id": "1083C93A-FCCF-4B43-A254-EC84E3035932"
+    },
+    {
+      "class": "text",
+      "id": "88F1D2F9-BE40-4458-82BE-EF50F971C60A"
+    },
+    {
+      "class": "text",
+      "id": "E201F186-B53D-4C2C-8A48-79EB1739EFFF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "542A2C15-33F6-4ABC-8852-1551A588A4B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "980D239B-DB42-4FC8-9CC4-B8CB2A539C91"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1FE1D4CF-E359-428F-8F1B-41637903EC7A"
+    },
+    {
+      "class": "text",
+      "id": "16931904-0669-4107-BC5B-D977FB39AD6A"
+    },
+    {
+      "class": "text",
+      "id": "81871108-55E0-43C4-9AE2-E15C8037968D"
+    },
+    {
+      "class": "text",
+      "id": "465DF9CB-3D91-4601-860E-7801AC6438EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D130B4F4-341E-41A8-B4C1-6563473AF57D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B8B6E82D-79BA-4D09-B046-6F5C9B78F6F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1DC9C600-9B90-4494-8BBE-C49A8F4A6E4B"
     }
   ],
   "name": "Primary",

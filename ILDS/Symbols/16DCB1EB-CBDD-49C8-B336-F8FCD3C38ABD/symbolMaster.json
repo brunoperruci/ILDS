@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 25,
+  "changeIdentifier": 125,
   "do_objectID": "16DCB1EB-CBDD-49C8-B336-F8FCD3C38ABD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -59,7 +59,7 @@
   ],
   "name": "button/secondary/icon + label/states/disabled",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -65,7 +65,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Icon",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -101,10 +101,10 @@
         },
         "textStyleVerticalAlignmentKey": 0
       },
-      "verticalAlignment": 2
+      "verticalAlignment": 0
     }
   },
-  "textBehaviour": 2,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 7,
+  "changeIdentifier": 68,
   "do_objectID": "11A7FF98-B891-46F0-B3A3-5584EFE0843E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 924
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,16 +42,24 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "2B6CF5E5-DDE2-458B-8D38-68195B426FEA"
+      "id": "FFD59C53-6DD8-454A-A710-787743A7A2B6"
+    },
+    {
+      "class": "text",
+      "id": "CC8010D6-B952-4306-B1BA-32145CA7BD23"
+    },
+    {
+      "class": "text",
+      "id": "D43F7E72-C962-4C99-8FE4-DABB593F91AB"
     }
   ],
   "name": "button/subtle/icon + label/states/pink/disabled",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

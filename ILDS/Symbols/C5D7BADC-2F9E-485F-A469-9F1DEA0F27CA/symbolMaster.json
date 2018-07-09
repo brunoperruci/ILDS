@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 11,
+  "changeIdentifier": 55,
   "do_objectID": "C5D7BADC-2F9E-485F-A469-9F1DEA0F27CA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 3960
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,11 +42,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "B6B5BF6C-B60E-4DA6-A6FC-F593EDC57DB9"
+      "class": "symbolInstance",
+      "id": "9F413617-E642-4832-B6DF-2C15E1E25F29"
     },
     {
       "class": "text",
@@ -59,7 +59,7 @@
   ],
   "name": "button/outline/icon + label/blue",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

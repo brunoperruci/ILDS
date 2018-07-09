@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 20,
-    "x": 10,
+    "width": 24,
+    "x": 8,
     "y": 4
   },
-  "glyphBounds": "{{0, 5}, {20, 14}}",
+  "glyphBounds": "{{2, 5}, {20, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -65,7 +65,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Icon",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -109,11 +109,11 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }

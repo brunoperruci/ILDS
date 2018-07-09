@@ -16,7 +16,7 @@
     "constrainProportions": false,
     "do_objectID": "3213DFDB-5D05-4B99-B0BC-7AD44E2457B8",
     "height": 32,
-    "width": 146,
+    "width": 148,
     "x": 48,
     "y": 908
   },
@@ -29,6 +29,12 @@
   "name": "button/pink/primary/with icon/standard",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "708650A4-9227-4FCD-B4FF-430AE78B1B75",
+      "overrideName": "83E6069B-1BC4-4A0F-80D9-CD75734AB041_stringValue",
+      "value": "Button Label"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
