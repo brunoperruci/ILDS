@@ -1023,6 +1023,34 @@
     {
       "class": "group",
       "id": "02273A92-980D-4D10-9DF7-03B7DAD045FB"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D9D64F14-6142-44D1-B3B7-9729CC11A632"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1033EF08-879E-4249-AFDE-1471CC454555"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "67AA33B5-7CF2-4D28-BBAF-E71CAC470CFB"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A9C76FFA-308C-4D5F-95A6-3C059CFBCB93"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "AAB23610-A347-45E3-A790-7D88113EA3F0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F0B4669A-83C3-4390-AB77-0743072D1928"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "76CB4050-3357-458E-866A-D344FC486410"
     }
   ],
   "name": "Symbols",
