@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 16,
+  "changeIdentifier": 30,
   "do_objectID": "E43D2B83-ABD1-480D-88E5-61F05C3764A3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,11 +42,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "B5BFE791-FC41-47E7-8644-8B542198DB04"
+      "class": "symbolInstance",
+      "id": "5B281C29-C3D3-496E-8F23-10BE9B3A2CC8"
     }
   ],
   "name": "atoms/checkbox/resting/standard",
