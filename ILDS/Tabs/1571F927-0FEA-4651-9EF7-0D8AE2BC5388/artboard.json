@@ -25,8 +25,8 @@
     "do_objectID": "7F9A45A0-C501-4B26-BE8B-1CA7AB194E5D",
     "height": 513,
     "width": 1044,
-    "x": 855,
-    "y": -199
+    "x": -251,
+    "y": 362
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -91,7 +91,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1274
   },
-  "name": "Page Copy",
+  "name": "Tabs with background",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

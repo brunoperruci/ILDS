@@ -25,7 +25,7 @@
     "do_objectID": "02E72373-903D-4799-B976-8AFDD11B403B",
     "height": 513,
     "width": 1044,
-    "x": -249,
+    "x": -251,
     "y": -199
   },
   "hasBackgroundColor": false,
@@ -91,7 +91,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1274
   },
-  "name": "Page",
+  "name": "Tabs without background",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
