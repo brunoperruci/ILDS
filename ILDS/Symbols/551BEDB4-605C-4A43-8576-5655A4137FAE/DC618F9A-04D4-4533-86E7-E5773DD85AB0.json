@@ -37,6 +37,7 @@
     "string": "Input placeholder"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "DC618F9A-04D4-4533-86E7-E5773DD85AB0",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 10
   },
   "glyphBounds": "{{1, 4}, {107, 14}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

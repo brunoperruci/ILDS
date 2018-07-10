@@ -37,6 +37,7 @@
     "string": "Input Filled"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "B688972E-C171-49F7-82B0-343E9F749EF0",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 10
   },
   "glyphBounds": "{{1, 4}, {67, 14}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
