@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "E68FB6F8-E4E9-4520-A8F3-909D8629205C",
+  "booleanOperation": -1,
+  "do_objectID": "A18902FC-481D-4034-A885-AB0F75048676",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D2C81A9D-24EA-4748-A7F4-7667726342F4",
+    "do_objectID": "5A489E09-C557-4028-820D-E15B03791FE0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BA1C2F8E-11E2-4803-B368-A91CAA2FCBDA",
-    "height": 32,
-    "width": 128,
+    "do_objectID": "7C3CB2D0-AB8C-4675-B3F3-E5CB2C97396D",
+    "height": 24,
+    "width": 24,
     "x": 0,
-    "y": 0
+    "y": 4
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -28,24 +28,30 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atoms/button/container/secondary/hover copy [0 12]",
+  "name": "atoms/icons/material",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "20948D13-6972-4B7A-8855-7B95259826B3",
+      "overrideName": "46E46722-34DB-4C89-87EA-A3383E70D3F1_stringValue",
+      "value": "keyboard_arrow_left"
+    }
   ],
-  "resizingConstraint": 18,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "38792A6F-776A-41AE-8B32-887399DE6DFF",
+    "do_objectID": "BB773CAF-9E31-445D-BFEA-90F79967DE0C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D6D0CD0D-2463-4B63-88E6-FACD945FCB3C",
+  "symbolID": "C6BFB6A0-5EAE-4159-A853-EE145C8EED9C",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

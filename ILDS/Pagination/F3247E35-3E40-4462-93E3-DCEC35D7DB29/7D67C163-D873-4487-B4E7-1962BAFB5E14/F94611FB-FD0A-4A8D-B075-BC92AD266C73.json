@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "E68FB6F8-E4E9-4520-A8F3-909D8629205C",
+  "booleanOperation": -1,
+  "do_objectID": "F94611FB-FD0A-4A8D-B075-BC92AD266C73",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D2C81A9D-24EA-4748-A7F4-7667726342F4",
+    "do_objectID": "9822AC1D-E65A-43B6-8E66-124215F29BEF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,37 +15,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BA1C2F8E-11E2-4803-B368-A91CAA2FCBDA",
+    "do_objectID": "E1F07F9C-BF03-4836-BD4D-E5A098CF926D",
     "height": 32,
-    "width": 128,
+    "width": 33,
     "x": 0,
-    "y": 0
+    "y": 22
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atoms/button/container/secondary/hover copy [0 12]",
+  "name": "atoms/pagination/resting copy",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 18,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "38792A6F-776A-41AE-8B32-887399DE6DFF",
+    "do_objectID": "DA8127C0-064F-4496-96AB-32891BC9DFBA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D6D0CD0D-2463-4B63-88E6-FACD945FCB3C",
+  "symbolID": "ECEB76BB-D812-40B1-92C6-99F85DE05640",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

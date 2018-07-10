@@ -9,41 +9,40 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.984313725490196,
-            "green": 0.4470588235294119,
-            "red": 0.2274509803921569
+            "blue": 0.6274509803921569,
+            "green": 0.6235294117647059,
+            "red": 0.6196078431372549
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Medium",
-              "size": 14
+              "name": "Roboto-Regular",
+              "size": 12
             }
           },
-          "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 0.33,
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 32,
-            "minimumLineHeight": 32
+            "maximumLineHeight": 14,
+            "minimumLineHeight": 14
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Button Label"
+    "string": "Resting"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "19674A04-D12B-42DD-AC9F-6382D218128F",
+  "do_objectID": "31F56CD1-37F5-42BC-B870-36952661EACE",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DBD4BC6E-A52E-46F8-B22B-45BA7610F38C",
+    "do_objectID": "6EE94A4C-3117-482B-A410-E8A5C1164E64",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -54,13 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "76C35E4A-20A4-43F9-BCC1-72C70CCAE465",
-    "height": 32,
-    "width": 104,
-    "x": 12,
+    "do_objectID": "97495811-B43A-4AC5-AB7E-BF26B61E4093",
+    "height": 14,
+    "width": 41,
+    "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 10}, {102, 12}}",
+  "glyphBounds": "{{0, 2}, {40, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -68,44 +67,44 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Label",
-  "nameIsFixed": false,
-  "resizingConstraint": 11,
+  "name": "Standard Copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D22A1475-5607-4E00-B7B3-014BB07D7EE2",
+    "do_objectID": "95F3F0E6-C085-4337-9BB9-10D578A99248",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "A6844796-D736-4989-B1B0-0E9045066B10",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "1D47C870-AC5E-4ABB-8221-7F32078220CF",
+      "do_objectID": "86B31195-1141-40B9-9912-8FFF7169C4C4",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.984313725490196,
-          "green": 0.4470588235294119,
-          "red": 0.2274509803921569
+          "blue": 0.6274509803921569,
+          "green": 0.6235294117647059,
+          "red": 0.6196078431372549
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Medium",
-            "size": 14
+            "name": "Roboto-Regular",
+            "size": 12
           }
         },
-        "MSAttributedStringTextTransformAttribute": 1,
-        "kerning": 0.33,
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 32,
-          "minimumLineHeight": 32
+          "maximumLineHeight": 14,
+          "minimumLineHeight": 14
         },
         "textStyleVerticalAlignmentKey": 0
       },

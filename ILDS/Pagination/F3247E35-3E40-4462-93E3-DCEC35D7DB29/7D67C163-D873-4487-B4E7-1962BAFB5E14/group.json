@@ -1,10 +1,9 @@
 {
-  "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "E68FB6F8-E4E9-4520-A8F3-909D8629205C",
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "7D67C163-D873-4487-B4E7-1962BAFB5E14",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D2C81A9D-24EA-4748-A7F4-7667726342F4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,42 +14,45 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BA1C2F8E-11E2-4803-B368-A91CAA2FCBDA",
-    "height": 32,
-    "width": 128,
-    "x": 0,
-    "y": 0
+    "height": 54,
+    "width": 47,
+    "x": 300,
+    "y": 156
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atoms/button/container/secondary/hover copy [0 12]",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F94611FB-FD0A-4A8D-B075-BC92AD266C73"
+    },
+    {
+      "class": "text",
+      "id": "9548523E-930A-4B95-91F8-3252CE0E9389"
+    }
   ],
-  "resizingConstraint": 18,
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "38792A6F-776A-41AE-8B32-887399DE6DFF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D6D0CD0D-2463-4B63-88E6-FACD945FCB3C",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  },
-  "verticalSpacing": 0
+  }
 }

@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "E68FB6F8-E4E9-4520-A8F3-909D8629205C",
+  "do_objectID": "64CCB69A-2809-47A4-A288-16E99F5AAF05",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D2C81A9D-24EA-4748-A7F4-7667726342F4",
+    "do_objectID": "5F1123AC-915B-4B78-A43D-5772FBC235A4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BA1C2F8E-11E2-4803-B368-A91CAA2FCBDA",
+    "do_objectID": "6E54BF9D-B046-4725-8783-1E7B474F6978",
     "height": 32,
-    "width": 128,
+    "width": 33,
     "x": 0,
     "y": 0
   },
@@ -28,8 +28,8 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atoms/button/container/secondary/hover copy [0 12]",
-  "nameIsFixed": false,
+  "name": "atoms/button/container/secondary/hover",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 18,
@@ -39,13 +39,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "38792A6F-776A-41AE-8B32-887399DE6DFF",
+    "do_objectID": "3C43EAB3-25A9-43BC-9546-40D05E14803F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D6D0CD0D-2463-4B63-88E6-FACD945FCB3C",
+  "symbolID": "A2751F85-3A9C-4EE4-B8B0-ABCCD07CA898",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "E68FB6F8-E4E9-4520-A8F3-909D8629205C",
+  "booleanOperation": -1,
+  "do_objectID": "8C3AC32E-56D4-465D-A7FB-888EEF32B48D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D2C81A9D-24EA-4748-A7F4-7667726342F4",
+    "do_objectID": "BC435D5E-A6B9-4202-BEC6-21251B81E15D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,37 +15,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BA1C2F8E-11E2-4803-B368-A91CAA2FCBDA",
+    "do_objectID": "EB0D1397-AA54-462F-B4F2-AB90AB1CFB75",
     "height": 32,
-    "width": 128,
-    "x": 0,
+    "width": 33,
+    "x": 216,
     "y": 0
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atoms/button/container/secondary/hover copy [0 12]",
+  "name": "Page #5",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FED868C2-0E7F-4C55-8294-DCCAB329B0F0",
+      "overrideName": "C65BAAAB-FC9A-4A98-B1A5-E9C2009907FB_stringValue",
+      "value": "5"
+    }
   ],
-  "resizingConstraint": 18,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "38792A6F-776A-41AE-8B32-887399DE6DFF",
+    "do_objectID": "42704DCC-2016-4B8A-9BE3-730EA602F4E4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D6D0CD0D-2463-4B63-88E6-FACD945FCB3C",
+  "symbolID": "0A632D4E-4440-49F9-BC63-9FD16593A05D",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

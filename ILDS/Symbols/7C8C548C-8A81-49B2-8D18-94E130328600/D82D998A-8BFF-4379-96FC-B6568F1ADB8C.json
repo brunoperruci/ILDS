@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "E68FB6F8-E4E9-4520-A8F3-909D8629205C",
+  "do_objectID": "D82D998A-8BFF-4379-96FC-B6568F1ADB8C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D2C81A9D-24EA-4748-A7F4-7667726342F4",
+    "do_objectID": "C9401BA1-79F0-4436-A76E-6DC03E1175A3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BA1C2F8E-11E2-4803-B368-A91CAA2FCBDA",
+    "do_objectID": "030DEDC4-4690-428C-B8F2-2C87F7C6504B",
     "height": 32,
-    "width": 128,
+    "width": 33,
     "x": 0,
     "y": 0
   },
@@ -28,8 +28,8 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atoms/button/container/secondary/hover copy [0 12]",
-  "nameIsFixed": false,
+  "name": "atoms/button/container/secondary/hover",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 18,
@@ -39,7 +39,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "38792A6F-776A-41AE-8B32-887399DE6DFF",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "2CC567C8-19D8-4EDD-BF6F-852E1C282108",
+      "opacity": 0
+    },
+    "do_objectID": "ACF1B618-0BF2-469F-8333-B4B34B3247E3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

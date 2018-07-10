@@ -1,10 +1,10 @@
 {
-  "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "E68FB6F8-E4E9-4520-A8F3-909D8629205C",
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "1CB09F85-EEB7-429E-A652-A1EA7721B1F8",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D2C81A9D-24EA-4748-A7F4-7667726342F4",
+    "do_objectID": "BA3602A5-9C0E-4741-8F8B-83E3DA825122",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,42 +15,47 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BA1C2F8E-11E2-4803-B368-A91CAA2FCBDA",
-    "height": 32,
-    "width": 128,
-    "x": 0,
-    "y": 0
+    "do_objectID": "2B9915A1-50F7-424C-B644-71EB038CEAC6",
+    "height": 54,
+    "width": 47,
+    "x": 300,
+    "y": 306
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atoms/button/container/secondary/hover copy [0 12]",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "89DAF98E-75F4-4E23-A455-C71772931BB9"
+    },
+    {
+      "class": "text",
+      "id": "96E6780F-950E-4511-BB97-63A1E50FB84B"
+    }
   ],
-  "resizingConstraint": 18,
+  "name": "Group Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "38792A6F-776A-41AE-8B32-887399DE6DFF",
+    "do_objectID": "CADC07E5-F640-42C6-A137-60DB8F1DA305",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D6D0CD0D-2463-4B63-88E6-FACD945FCB3C",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  },
-  "verticalSpacing": 0
+  }
 }

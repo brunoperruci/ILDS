@@ -7,9 +7,9 @@
     "green": 1,
     "red": 1
   },
-  "booleanOperation": 0,
-  "changeIdentifier": 39,
-  "do_objectID": "02768A4A-77CC-457B-B1DD-5A9C51E21159",
+  "booleanOperation": -1,
+  "changeIdentifier": 30,
+  "do_objectID": "A4481A9E-37F8-4121-AB4F-95CD32E08487",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,9 +23,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 128,
-    "x": 3922,
-    "y": 2244
+    "width": 285,
+    "x": 8592,
+    "y": 140
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -44,19 +44,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "E68FB6F8-E4E9-4520-A8F3-909D8629205C"
-    },
-    {
-      "class": "text",
-      "id": "19674A04-D12B-42DD-AC9F-6382D218128F"
+      "class": "group",
+      "id": "489A0502-23D4-4B64-AEBA-976940034A18"
     }
   ],
-  "name": "button/subtle/label/states/blue/hover",
-  "nameIsFixed": true,
+  "name": "pagination/pattern/pink",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -69,13 +65,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B5FA81BC-806A-4882-82D9-B4572085D76E",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
+  "symbolID": "C55DA7BB-B42F-4901-8041-380D066E6129",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
