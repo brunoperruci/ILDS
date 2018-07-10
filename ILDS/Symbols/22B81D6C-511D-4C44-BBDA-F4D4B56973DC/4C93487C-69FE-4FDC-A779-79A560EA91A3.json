@@ -1,9 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "92982E54-6D50-43B2-9D59-5BD7131F4B2B",
+  "do_objectID": "4C93487C-69FE-4FDC-A779-79A560EA91A3",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "1C3E3E62-394B-4DEA-8A29-7AAC1889BC42",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,6 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "22D50D95-332E-4EE8-99FD-A70AB04DC29E",
     "height": 32,
     "width": 128,
     "x": 0,
@@ -26,8 +28,8 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atoms/button/container/pink/standard [0 12]",
-  "nameIsFixed": false,
+  "name": "atoms/button/container/pink/standard",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 18,
@@ -37,11 +39,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.3299999833106995
-    },
+    "do_objectID": "F6A623BB-37EE-48D2-8345-CEBDC8496257",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

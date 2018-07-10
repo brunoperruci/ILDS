@@ -24,7 +24,7 @@
           "kerning": 0.3300000131130219,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 32,
             "minimumLineHeight": 32
@@ -39,10 +39,11 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "5706897A-15CF-4385-B986-BB735CFF0BDC",
+  "do_objectID": "12690F1E-086C-4355-9670-A2439338A119",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "94AAAED2-B773-4502-A9A5-82A2812509C2",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,6 +54,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "06A8D5E1-9BDB-4EAE-8740-45C69EE70988",
     "height": 32,
     "width": 104,
     "x": 12,
@@ -68,17 +70,19 @@
   "lineSpacingBehaviour": 2,
   "name": "Label",
   "nameIsFixed": false,
-  "resizingConstraint": 11,
+  "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "EF824D90-ED50-4CAF-A492-670BB2814DDD",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "6D348DDA-C929-4286-920B-C47CC1BE3EE2",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -98,7 +102,7 @@
         "kerning": 0.3300000131130219,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 32,
           "minimumLineHeight": 32

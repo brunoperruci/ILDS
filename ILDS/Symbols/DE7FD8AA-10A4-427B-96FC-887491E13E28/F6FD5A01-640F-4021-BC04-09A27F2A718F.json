@@ -1,9 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "92982E54-6D50-43B2-9D59-5BD7131F4B2B",
+  "do_objectID": "F6FD5A01-640F-4021-BC04-09A27F2A718F",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "2F10320B-0747-49F7-BA27-34F289F052A8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,6 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "F4FADE75-10B1-4EAC-8F72-0891336796CF",
     "height": 32,
     "width": 128,
     "x": 0,
@@ -26,7 +28,7 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atoms/button/container/pink/standard [0 12]",
+  "name": "atoms/button/container/blue/standard [0 12]",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -37,17 +39,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.3299999833106995
-    },
+    "do_objectID": "21C69687-21BF-4A61-890C-CADD6AAF388F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "1D1DBB74-626E-49F0-9D31-D154AC0262A3",
+  "symbolID": "F5C0A49C-7C94-41EF-AF80-A6068FF6243D",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
