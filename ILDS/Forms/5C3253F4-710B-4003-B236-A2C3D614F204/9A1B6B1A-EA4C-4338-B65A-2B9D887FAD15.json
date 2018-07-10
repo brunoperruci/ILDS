@@ -37,6 +37,7 @@
     "string": "Hover"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "9A1B6B1A-EA4C-4338-B65A-2B9D887FAD15",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -59,6 +60,7 @@
     "y": 424
   },
   "glyphBounds": "{{0, 2}, {32, 10}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -74,10 +76,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "31D3923F-58D0-4FC7-9425-31AB57B71F72",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "A6844796-D736-4989-B1B0-0E9045066B10",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "2E230901-2823-4457-B8A8-60632C2B5300",
@@ -107,7 +109,8 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

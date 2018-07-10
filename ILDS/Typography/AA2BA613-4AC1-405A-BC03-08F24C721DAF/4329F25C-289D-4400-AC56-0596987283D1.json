@@ -37,6 +37,7 @@
     "string": "Esqueceu sua senha?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "4329F25C-289D-4400-AC56-0596987283D1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -59,6 +60,7 @@
     "y": 48
   },
   "glyphBounds": "{{1, 4}, {133, 14}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -74,10 +76,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "EAC85180-F8A7-418A-91F0-5A7DEDD08F27",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "8E9F1F0B-CCBA-420D-AD56-DD834EDFFDA6",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "5DD7CE7A-0BE0-45B1-9C51-361A5BA52292",
@@ -107,7 +109,8 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

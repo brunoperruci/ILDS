@@ -38,6 +38,7 @@
     "string": "Button Label"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "4C89D8C5-C4C3-4D78-9FF1-A196A2F8B183",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -60,6 +61,7 @@
     "y": 0
   },
   "glyphBounds": "{{1, 10}, {102, 12}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -75,9 +77,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "B0609B28-FFE7-403B-843B-31BA9A28EB96",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "E31E524C-83CD-4C79-B662-6E3A1B0622DC",
@@ -108,7 +110,8 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

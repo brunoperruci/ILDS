@@ -37,6 +37,7 @@
     "string": "Green"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "F6FC4EC5-C740-498A-AA94-D6748D68EA59",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 1572
   },
   "glyphBounds": "{{1, 4}, {51, 16}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

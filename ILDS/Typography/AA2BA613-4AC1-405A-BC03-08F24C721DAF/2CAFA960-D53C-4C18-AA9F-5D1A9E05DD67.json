@@ -39,6 +39,7 @@
     "string": "Clique aqui"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "2CAFA960-D53C-4C18-AA9F-5D1A9E05DD67",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -61,6 +62,7 @@
     "y": 476
   },
   "glyphBounds": "{{0, 4}, {69, 14}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -76,10 +78,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "9D4D9FA0-F9FB-468E-950C-E138D335BC03",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "7402CCFE-DBF1-468F-9666-0AAC857F9E57",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -110,7 +112,8 @@
         "underlineStyle": 1
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

@@ -1,0 +1,91 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "72D2BC1E-6E3A-4CE4-A881-D17E6DBE41FA",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 64,
+  "do_objectID": "22B81D6C-511D-4C44-BBDA-F4D4B56973DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1A36ED55-13AE-4E09-879E-7D828D5BC2EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD6F677D-49BA-4A5B-AF94-F6FE25DB584D",
+    "height": 32,
+    "width": 128,
+    "x": 3222,
+    "y": 1900
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4C851386-8F93-4750-A6F2-3DB8C65DD709",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4C93487C-69FE-4FDC-A779-79A560EA91A3"
+    },
+    {
+      "class": "text",
+      "id": "EAE7B88A-AF66-4899-973F-3F4219546CE6"
+    }
+  ],
+  "name": "button/primary/label/full-width/pink",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "326ECB14-035D-4D88-9558-7BFA41DA71FB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EE588807-8C8F-4713-AB25-EC39D948E0FD",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BB9ECB12-F178-4AC2-87A6-BA4F790DE4C4",
+    "guides": [
+    ]
+  }
+}

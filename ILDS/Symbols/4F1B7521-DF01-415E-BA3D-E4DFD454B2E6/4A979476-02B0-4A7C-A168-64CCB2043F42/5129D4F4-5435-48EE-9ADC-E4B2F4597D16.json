@@ -37,6 +37,7 @@
     "string": "Input Foc"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "5129D4F4-5435-48EE-9ADC-E4B2F4597D16",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 1
   },
   "glyphBounds": "{{1, 5}, {57, 13}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

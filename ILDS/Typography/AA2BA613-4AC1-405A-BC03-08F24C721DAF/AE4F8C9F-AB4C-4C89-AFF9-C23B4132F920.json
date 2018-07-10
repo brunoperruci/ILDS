@@ -39,6 +39,7 @@
     "string": "Text link:hover"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "AE4F8C9F-AB4C-4C89-AFF9-C23B4132F920",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -61,6 +62,7 @@
     "y": 476
   },
   "glyphBounds": "{{0, 4}, {91, 12}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -76,10 +78,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "BFEAA671-6D93-4BF2-9161-C4C19972E98D",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "7402CCFE-DBF1-468F-9666-0AAC857F9E57",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -110,7 +112,8 @@
         "underlineStyle": 1
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

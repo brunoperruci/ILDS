@@ -37,6 +37,7 @@
     "string": "Type something"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "7C6CBB09-6A18-42E6-ABC4-B495B31413F0",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 2
   },
   "glyphBounds": "{{0, 4}, {99, 14}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

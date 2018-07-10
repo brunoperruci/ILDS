@@ -38,6 +38,7 @@
     "string": "Tab #1"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "565F93B6-E0B2-4A6B-8268-E0809A1AF62D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -60,6 +61,7 @@
     "y": 8
   },
   "glyphBounds": "{{0, 5}, {44, 10}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -75,10 +77,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "FBB15FFB-5164-4F58-80DB-8E2A5A354C38",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "B1196D03-D0A2-4536-A8DD-D86A2B2768A4",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -108,7 +110,8 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {
