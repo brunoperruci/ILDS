@@ -7,7 +7,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.3299999833106995
+      "opacity": 0.3999999761581421
     },
     "endMarkerType": 0,
     "miterLimit": 10,
@@ -19,9 +19,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3882352941176471,
-          "green": 0.384313725490196,
-          "red": 0.3803921568627451
+          "blue": 0.2980392156862745,
+          "green": 0.2941176470588235,
+          "red": 0.2901960784313725
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

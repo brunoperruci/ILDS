@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -70,6 +70,14 @@
     },
     {
       "class": "text",
+      "id": "ED7697B3-756C-47B0-82FB-575F2B4BE51D"
+    },
+    {
+      "class": "text",
+      "id": "A85728DD-E6CF-4519-A95A-9E81A183C518"
+    },
+    {
+      "class": "text",
       "id": "1A55D32F-3B04-40B0-BAC6-320322CDD51C"
     },
     {
@@ -91,6 +99,14 @@
     {
       "class": "text",
       "id": "13D5559E-9A96-42AC-B479-E60BFFBD14EB"
+    },
+    {
+      "class": "text",
+      "id": "31234702-F74F-4805-A48C-0901164EE474"
+    },
+    {
+      "class": "text",
+      "id": "777F2456-332E-42F3-8DD9-339BF8E88EF4"
     }
   ],
   "name": "Typography",
