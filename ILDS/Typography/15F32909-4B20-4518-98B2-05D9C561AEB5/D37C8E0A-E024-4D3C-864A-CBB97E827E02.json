@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4666666666666667,
-            "green": 0.4627450980392157,
-            "red": 0.4588235294117647
+            "blue": 0.3882352941176471,
+            "green": 0.384313725490196,
+            "red": 0.3803921568627451
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -23,7 +23,7 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 20,
             "minimumLineHeight": 20
@@ -78,7 +78,7 @@
     "do_objectID": "BB34CEB1-3CEC-4DFC-A645-3DCDCC3CA41B",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "7AAF6AA1-2DEE-43D2-9515-6B2B22F83FC6",
+    "sharedObjectID": "54C1039A-E043-46FF-B117-35AA680CA871",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -86,9 +86,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4666666666666667,
-          "green": 0.4627450980392157,
-          "red": 0.4588235294117647
+          "blue": 0.3882352941176471,
+          "green": 0.384313725490196,
+          "red": 0.3803921568627451
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -100,7 +100,7 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 20,
           "minimumLineHeight": 20
