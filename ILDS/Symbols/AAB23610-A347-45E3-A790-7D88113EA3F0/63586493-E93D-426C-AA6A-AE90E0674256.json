@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 38,
-    "width": 95,
+    "width": 111,
     "x": 0,
     "y": 0
   },
@@ -26,7 +26,7 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atoms/tabs/container/selected [8 24 -1]",
+  "name": "atoms/tabs/container/selected [8 32 -1]",
   "nameIsFixed": true,
   "overrideValues": [
   ],

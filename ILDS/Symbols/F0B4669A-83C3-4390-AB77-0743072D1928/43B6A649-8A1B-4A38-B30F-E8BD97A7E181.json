@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "do_objectID": "39454BE1-DC2C-40BA-8101-D54F187770A1",
     "height": 38,
-    "width": 95,
+    "width": 111,
     "x": 0,
     "y": 0
   },
@@ -28,7 +28,7 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atoms/tabs/container/selected [8 24 -1]",
+  "name": "atoms/tabs/container/selected [8 32 -1]",
   "nameIsFixed": true,
   "overrideValues": [
   ],
