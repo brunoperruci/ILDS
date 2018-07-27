@@ -27,15 +27,15 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 12,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "forms/toggle"
+    "string": "atoms/tag"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
-  "do_objectID": "FD916B1C-E0DE-4E49-B8B2-AED25F5DA628",
+  "booleanOperation": -1,
+  "do_objectID": "284F61EF-A2CD-4022-93F9-4A6DF18346BF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 131,
-    "x": 6896,
+    "width": 103,
+    "x": 2599,
     "y": 0
   },
-  "glyphBounds": "{{0, 4}, {131, 20}}",
+  "glyphBounds": "{{0, 4}, {102, 20}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,44 +62,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "forms/toggle",
+  "name": "atoms/tag",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "_class": "style",
-    "endMarkerType": 0,
-    "miterLimit": 10,
-    "startMarkerType": 0,
-    "textStyle": {
-      "_class": "textStyle",
-      "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "SFProText-Bold",
-            "size": 20
-          }
-        },
-        "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
-        }
-      },
-      "verticalAlignment": 0
-    },
-    "windingRule": 1
+    "sharedObjectID": "697453B6-8704-4A0A-A270-BFEF6D3CAF83"
   },
   "textBehaviour": 0
 }

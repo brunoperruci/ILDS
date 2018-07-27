@@ -27,15 +27,15 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 16,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "forms/text input"
+    "string": "forms/searchbox"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
-  "do_objectID": "7A4665D7-E412-423D-8C12-A54C443B80A2",
+  "booleanOperation": -1,
+  "do_objectID": "96B06D20-3902-4595-A6AE-8ADDBE6022F3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 164,
-    "x": 6440,
+    "width": 172,
+    "x": 6593,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {163, 20}}",
+  "glyphBounds": "{{0, 4}, {171, 19}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,44 +62,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "forms/text input",
+  "name": "forms/searchbox",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "_class": "style",
-    "endMarkerType": 0,
-    "miterLimit": 10,
-    "startMarkerType": 0,
-    "textStyle": {
-      "_class": "textStyle",
-      "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "SFProText-Bold",
-            "size": 20
-          }
-        },
-        "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
-        }
-      },
-      "verticalAlignment": 0
-    },
-    "windingRule": 1
+    "sharedObjectID": "697453B6-8704-4A0A-A270-BFEF6D3CAF83"
   },
   "textBehaviour": 0
 }

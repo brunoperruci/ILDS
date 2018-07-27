@@ -27,15 +27,15 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 14,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "forms/checkbox"
+    "string": "tag/removable"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
-  "do_objectID": "9AC02972-6AB1-4EB7-9EF8-4F5F0AF980C5",
+  "booleanOperation": -1,
+  "do_objectID": "D855056C-3E2A-4B90-90F4-3D30FD946F2F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 164,
-    "x": 4272,
+    "width": 146,
+    "x": 10570,
     "y": 0
   },
-  "glyphBounds": "{{0, 4}, {163, 19}}",
+  "glyphBounds": "{{0, 4}, {145, 20}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,44 +62,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "forms/checkbox",
+  "name": "tag/removable",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "_class": "style",
-    "endMarkerType": 0,
-    "miterLimit": 10,
-    "startMarkerType": 0,
-    "textStyle": {
-      "_class": "textStyle",
-      "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "SFProText-Bold",
-            "size": 20
-          }
-        },
-        "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
-        }
-      },
-      "verticalAlignment": 0
-    },
-    "windingRule": 1
+    "sharedObjectID": "697453B6-8704-4A0A-A270-BFEF6D3CAF83"
   },
   "textBehaviour": 0
 }

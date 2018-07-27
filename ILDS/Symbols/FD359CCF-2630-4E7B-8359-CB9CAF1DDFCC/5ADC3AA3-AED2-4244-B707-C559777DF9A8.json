@@ -27,15 +27,15 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 18,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "atoms/list-results"
+    "string": "forms/checkbox"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
-  "do_objectID": "CCCE0755-9226-4EE0-935F-0DFE378C3CD7",
+  "booleanOperation": -1,
+  "do_objectID": "5ADC3AA3-AED2-4244-B707-C559777DF9A8",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 181,
-    "x": 1632,
+    "width": 164,
+    "x": 5033,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {180, 20}}",
+  "glyphBounds": "{{0, 4}, {163, 19}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,44 +62,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "atoms/list-results",
+  "name": "forms/checkbox",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "_class": "style",
-    "endMarkerType": 0,
-    "miterLimit": 10,
-    "startMarkerType": 0,
-    "textStyle": {
-      "_class": "textStyle",
-      "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "SFProText-Bold",
-            "size": 20
-          }
-        },
-        "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
-        }
-      },
-      "verticalAlignment": 0
-    },
-    "windingRule": 1
+    "sharedObjectID": "697453B6-8704-4A0A-A270-BFEF6D3CAF83"
   },
   "textBehaviour": 0
 }

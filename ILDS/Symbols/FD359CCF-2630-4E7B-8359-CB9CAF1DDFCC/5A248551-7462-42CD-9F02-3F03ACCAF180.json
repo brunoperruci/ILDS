@@ -31,11 +31,11 @@
         "location": 0
       }
     ],
-    "string": "atoms/button"
+    "string": "forms/toggle"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
-  "do_objectID": "2D3B7742-404D-47D9-A475-859D9BC23C2D",
+  "booleanOperation": -1,
+  "do_objectID": "5A248551-7462-42CD-9F02-3F03ACCAF180",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 138,
-    "x": 0,
+    "width": 131,
+    "x": 8113,
     "y": 0
   },
-  "glyphBounds": "{{0, 4}, {136, 19}}",
+  "glyphBounds": "{{0, 4}, {131, 20}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,44 +62,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "atoms/button",
+  "name": "forms/toggle",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "_class": "style",
-    "endMarkerType": 0,
-    "miterLimit": 10,
-    "startMarkerType": 0,
-    "textStyle": {
-      "_class": "textStyle",
-      "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "SFProText-Bold",
-            "size": 20
-          }
-        },
-        "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
-        }
-      },
-      "verticalAlignment": 0
-    },
-    "windingRule": 1
+    "sharedObjectID": "697453B6-8704-4A0A-A270-BFEF6D3CAF83"
   },
   "textBehaviour": 0
 }
