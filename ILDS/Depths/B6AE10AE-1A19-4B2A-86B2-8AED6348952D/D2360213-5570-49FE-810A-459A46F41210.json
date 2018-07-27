@@ -1,9 +1,10 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "FAEE7FC6-9218-4676-B09D-68B9D4430D75",
+  "do_objectID": "D2360213-5570-49FE-810A-459A46F41210",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "A2BDD64E-E581-4F2D-9847-5A5D0B0BD4CD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,45 +15,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "34F279BF-DF31-4B57-AC5B-9D9CFA398F20",
     "height": 104,
     "width": 208,
-    "x": 141,
-    "y": 695
+    "x": 142,
+    "y": 234
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "48B708ED-FA13-4AD0-9D3B-3A3112C44855"
-    },
-    {
-      "class": "text",
-      "id": "DBC98042-2464-40A6-84E3-B5745315553A"
-    }
+  "name": "z300 copy",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "z100",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "5B90EE62-0928-464F-A651-E532DB743B8C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "EC8EAC32-7B2B-48EF-81BC-813F70C16D62",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  }
+  },
+  "verticalSpacing": 0
 }

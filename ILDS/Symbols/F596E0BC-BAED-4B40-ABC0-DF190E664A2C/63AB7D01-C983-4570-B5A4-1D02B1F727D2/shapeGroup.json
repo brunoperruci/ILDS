@@ -2,10 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "00197BF5-10D2-4492-8F91-66238C37CD40",
+  "do_objectID": "63AB7D01-C983-4570-B5A4-1D02B1F727D2",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "23E11655-BCD0-4AF4-B269-26174FC0E036",
+    "do_objectID": "DD16F379-14F7-4B21-973E-6FAA4C1FCE3A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4F841033-48B7-4382-AE1C-8D17DB3FF544",
-    "height": 102,
-    "width": 206,
-    "x": 1,
-    "y": 1
+    "do_objectID": "7B153F7E-7CD9-462D-8A0C-B56BD078AB8A",
+    "height": 104,
+    "width": 208,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,10 +33,10 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "9144084D-E5FA-44D5-B596-0D25AEFA26E6"
+      "id": "DE5C3543-2655-41B8-85EB-69F76E00DE82"
     }
   ],
-  "name": "Rectangle",
+  "name": "Rectangle Copy 2",
   "nameIsFixed": false,
   "resizingConstraint": 18,
   "resizingType": 0,
@@ -50,17 +50,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.8980392156862745,
+          "green": 0.8941176470588235,
+          "red": 0.8901960784313725
         },
         "fillType": 0,
         "isEnabled": false,
-        "position": 1,
+        "position": 2,
         "thickness": 1
       }
     ],
-    "do_objectID": "EF09440C-2810-492E-AA6E-A2E1EA99A1F5",
+    "do_objectID": "928B04C7-2AE0-4C0E-B55C-D6A6A98994F0",
     "endMarkerType": 0,
     "fills": [
       {
@@ -84,13 +84,13 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 6,
+        "blurRadius": 0,
         "color": {
           "_class": "color",
-          "alpha": 0.16,
-          "blue": 0.396078431372549,
-          "green": 0.2862745098039216,
-          "red": 0.2431372549019608
+          "alpha": 0.45,
+          "blue": 0.8980392156862745,
+          "green": 0.8941176470588235,
+          "red": 0.8901960784313725
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -99,8 +99,8 @@
         },
         "isEnabled": true,
         "offsetX": 0,
-        "offsetY": 4,
-        "spread": 0
+        "offsetY": 0,
+        "spread": 1
       }
     ],
     "startMarkerType": 0,
