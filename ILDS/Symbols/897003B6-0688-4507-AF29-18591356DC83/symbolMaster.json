@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 5,
   "do_objectID": "897003B6-0688-4507-AF29-18591356DC83",
   "exportOptions": {
     "_class": "exportOptions",
@@ -28,7 +28,7 @@
     "y": -124
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,8 +51,8 @@
       "id": "2DCB84AA-B0CA-4E4A-853D-CC37CB0DE020"
     }
   ],
-  "name": "button/primary/icon/pink/states/disabled",
-  "nameIsFixed": false,
+  "name": "button/primary/icon/states/pink/disabled",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

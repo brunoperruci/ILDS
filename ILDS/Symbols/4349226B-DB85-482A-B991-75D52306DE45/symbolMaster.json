@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 5,
   "do_objectID": "4349226B-DB85-482A-B991-75D52306DE45",
   "exportOptions": {
     "_class": "exportOptions",
@@ -28,7 +28,7 @@
     "y": -124
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -55,8 +55,8 @@
       "id": "CEE556E3-38E3-4F57-AEE5-9E369FA5E175"
     }
   ],
-  "name": "button/primary/icon/green/states/active",
-  "nameIsFixed": false,
+  "name": "button/primary/icon/states/green/active",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 5,
   "do_objectID": "57563348-74B0-42EF-8FEF-33B881A6FB83",
   "exportOptions": {
     "_class": "exportOptions",
@@ -28,7 +28,7 @@
     "y": -124
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,8 +51,8 @@
       "id": "3149FF1C-A1C2-49E7-8A96-5F80EDE1675E"
     }
   ],
-  "name": "button/primary/icon/blue/states/disabled",
-  "nameIsFixed": false,
+  "name": "button/primary/icon/states/blue/disabled",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

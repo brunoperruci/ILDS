@@ -8,8 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5,
-  "do_objectID": "4E3A29B6-8CC5-4915-BA39-A30552D37D3D",
+  "changeIdentifier": 4,
+  "do_objectID": "5EA7B49E-4428-4E04-AE19-C7AAD866CC8B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,11 +24,11 @@
     "constrainProportions": false,
     "height": 36,
     "width": 36,
-    "x": 12638,
+    "x": 13862,
     "y": -124
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,15 +48,15 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "7240AE07-97E2-4C74-A1BA-DE31443037A5"
+      "id": "C435FA93-4066-4761-90D8-554F2BF9B1A3"
     },
     {
       "class": "text",
-      "id": "D22EC693-D2AF-4CF2-9CA9-BE5B14B9B9CB"
+      "id": "6C29A54A-BC9E-42C1-8077-31310CC89FB4"
     }
   ],
-  "name": "button/primary/icon/states/pink/active",
-  "nameIsFixed": true,
+  "name": "button/outline/icon/states/blue/hover",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -69,7 +69,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F51C7D27-53BC-46C3-9044-CE5237360748",
+  "symbolID": "CBEDA086-B0B8-484A-BEB6-64669157358D",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

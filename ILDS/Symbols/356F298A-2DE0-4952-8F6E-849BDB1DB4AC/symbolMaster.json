@@ -8,8 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5,
-  "do_objectID": "4E3A29B6-8CC5-4915-BA39-A30552D37D3D",
+  "changeIdentifier": 3,
+  "do_objectID": "356F298A-2DE0-4952-8F6E-849BDB1DB4AC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,11 +24,11 @@
     "constrainProportions": false,
     "height": 36,
     "width": 36,
-    "x": 12638,
+    "x": 14950,
     "y": -124
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,15 +48,11 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "7240AE07-97E2-4C74-A1BA-DE31443037A5"
-    },
-    {
-      "class": "text",
-      "id": "D22EC693-D2AF-4CF2-9CA9-BE5B14B9B9CB"
+      "id": "74A0F2B5-560D-479F-A960-E58E0742D24B"
     }
   ],
-  "name": "button/primary/icon/states/pink/active",
-  "nameIsFixed": true,
+  "name": "button/outline/icon/states/green/disabled",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -69,7 +65,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F51C7D27-53BC-46C3-9044-CE5237360748",
+  "symbolID": "835DCE73-50B2-44EC-98A2-E21A3E5CA29E",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
