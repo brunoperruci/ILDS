@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 66,
+  "changeIdentifier": 68,
   "do_objectID": "02FC97E3-B4EC-4175-94DF-3A19F6791AD3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -59,7 +59,7 @@
       "id": "8E7071C0-330E-4F90-B256-0EF6E5223C11"
     }
   ],
-  "name": "pagination/states/active/blue",
+  "name": "pagination/states/active",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

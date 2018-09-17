@@ -27,12 +27,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "A18902FC-481D-4034-A885-AB0F75048676"
-    },
     {
       "class": "symbolInstance",
       "id": "80C6E614-B2BF-4D80-BCD8-5001B2C6467D"
@@ -56,6 +52,10 @@
     {
       "class": "symbolInstance",
       "id": "7F33EA1E-2B76-4374-A1E3-D48BCC08E7F0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A18902FC-481D-4034-A885-AB0F75048676"
     }
   ],
   "name": "Stacked Group Copy 2",

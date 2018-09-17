@@ -25,12 +25,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "2178017E-0A56-49D2-A3C1-0B638DA3B1EA"
-    },
     {
       "class": "symbolInstance",
       "id": "4C378ECF-2368-4358-B6FE-96A966BB838B"
@@ -54,6 +50,10 @@
     {
       "class": "symbolInstance",
       "id": "7D073A72-1061-4FF3-B9A3-3BBF8F666701"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2178017E-0A56-49D2-A3C1-0B638DA3B1EA"
     }
   ],
   "name": "Stacked Group",

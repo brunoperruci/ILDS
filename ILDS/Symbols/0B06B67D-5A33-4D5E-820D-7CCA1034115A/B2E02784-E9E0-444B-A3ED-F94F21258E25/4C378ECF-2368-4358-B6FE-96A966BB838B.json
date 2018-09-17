@@ -28,8 +28,8 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atoms/icons/material copy",
-  "nameIsFixed": false,
+  "name": "Right Arrow",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

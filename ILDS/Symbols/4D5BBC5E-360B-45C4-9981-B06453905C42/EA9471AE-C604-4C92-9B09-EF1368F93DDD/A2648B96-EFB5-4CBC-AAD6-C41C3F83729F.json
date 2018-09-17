@@ -25,11 +25,11 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atoms/icons/material",
-  "nameIsFixed": false,
+  "name": "Left Arrow",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
