@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/outline/green/disabled",
-  "nameIsFixed": false,
+  "name": "button/outline/label/states/green/disabled",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

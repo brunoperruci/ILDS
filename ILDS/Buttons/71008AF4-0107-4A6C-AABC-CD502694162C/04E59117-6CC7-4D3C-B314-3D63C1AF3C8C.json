@@ -17,7 +17,7 @@
     "height": 36,
     "width": 36,
     "x": 640,
-    "y": 1375
+    "y": 701
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/secondary/icon/disabled",
-  "nameIsFixed": false,
+  "name": "button/secondary/icon/states/disabled",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

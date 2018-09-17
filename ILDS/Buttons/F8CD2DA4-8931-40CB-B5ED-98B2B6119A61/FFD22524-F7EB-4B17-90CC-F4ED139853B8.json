@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/subtle/label/green/hover",
-  "nameIsFixed": false,
+  "name": "button/subtle/label/states/green/hover",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

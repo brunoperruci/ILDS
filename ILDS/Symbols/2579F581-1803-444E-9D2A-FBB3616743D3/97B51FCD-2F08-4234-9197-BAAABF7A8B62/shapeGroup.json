@@ -49,7 +49,7 @@
         "_class": "border",
         "color": {
           "_class": "color",
-          "alpha": 0.3,
+          "alpha": 0.15,
           "blue": 0.396078431372549,
           "green": 0.2862745098039216,
           "red": 0.2431372549019608
@@ -109,22 +109,28 @@
         "noiseIntensity": 0,
         "patternFillType": 1,
         "patternTileScale": 1
-      },
+      }
+    ],
+    "innerShadows": [
       {
-        "_class": "fill",
+        "_class": "innerShadow",
+        "blurRadius": 0,
         "color": {
           "_class": "color",
-          "alpha": 0.04,
+          "alpha": 0.2,
           "blue": 0.396078431372549,
           "green": 0.2862745098039216,
           "red": 0.2431372549019608
         },
-        "fillType": 0,
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
         "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 2
       }
     ],
     "miterLimit": 10,

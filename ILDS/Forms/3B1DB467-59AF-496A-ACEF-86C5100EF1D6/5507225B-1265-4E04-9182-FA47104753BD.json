@@ -28,8 +28,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "forms/radio/states/selected/disabled copy 2",
-  "nameIsFixed": false,
+  "name": "forms/radio/states/selected/disabled",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

@@ -28,8 +28,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "forms/toggle/states/hover copy 2",
-  "nameIsFixed": false,
+  "name": "forms/toggle/states/hover",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/green/primary/with icon/hover",
+  "name": "button/primary/label + icon/states/green/hover",
   "nameIsFixed": true,
   "overrideValues": [
   ],

@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "checkbox/check/active",
-  "nameIsFixed": false,
+  "name": "forms/checkbox/states/selected/active/blue",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

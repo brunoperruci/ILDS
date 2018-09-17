@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/outline/blue/hover",
-  "nameIsFixed": false,
+  "name": "button/outline/label/states/blue/hover",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

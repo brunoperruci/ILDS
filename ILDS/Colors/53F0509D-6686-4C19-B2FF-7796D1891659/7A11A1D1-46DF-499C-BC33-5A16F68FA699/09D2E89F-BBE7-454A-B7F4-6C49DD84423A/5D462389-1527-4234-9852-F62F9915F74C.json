@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "#FA0C64"
+    "string": "#0ACC8B"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,11 +51,11 @@
     "constrainProportions": false,
     "do_objectID": "C9FE4483-E79E-49E7-9E1F-7E0D7E98666B",
     "height": 14,
-    "width": 49,
+    "width": 52,
     "x": 8,
     "y": 42
   },
-  "glyphBounds": "{{0, 2}, {49, 10}}",
+  "glyphBounds": "{{0, 2}, {52, 10}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "#FA0C64 Copy",
+  "name": "#0ACC8B",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "checkbox/check/standard/pink",
-  "nameIsFixed": false,
+  "name": "forms/checkbox/selected/pink",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

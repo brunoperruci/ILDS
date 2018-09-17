@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "forms/searchbox/label/filled/multi/hover",
-  "nameIsFixed": false,
+  "name": "forms/searchbox/states/filled/multi hover",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

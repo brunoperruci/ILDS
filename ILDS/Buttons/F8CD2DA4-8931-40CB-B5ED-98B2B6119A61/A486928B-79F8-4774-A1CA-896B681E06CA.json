@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/subtle/label/pink/disabled",
-  "nameIsFixed": false,
+  "name": "button/subtle/label/states/pink/disabled",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

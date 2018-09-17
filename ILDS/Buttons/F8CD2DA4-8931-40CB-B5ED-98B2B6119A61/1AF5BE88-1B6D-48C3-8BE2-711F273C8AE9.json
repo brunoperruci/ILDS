@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/icon + label/blue/disabled",
-  "nameIsFixed": false,
+  "name": "button/subtle/icon + label/states/blue/disabled",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

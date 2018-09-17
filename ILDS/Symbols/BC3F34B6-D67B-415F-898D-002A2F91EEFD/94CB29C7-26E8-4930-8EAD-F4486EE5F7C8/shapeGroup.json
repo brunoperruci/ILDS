@@ -58,6 +58,7 @@
         "thickness": 1
       }
     ],
+    "do_objectID": "99B87831-23C8-4A62-B471-2EA880F78494",
     "endMarkerType": 0,
     "fills": [
       {
@@ -65,9 +66,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9019607843137255,
-          "green": 0.3215686274509802,
-          "red": 0.1607843137254902
+          "blue": 0.9,
+          "green": 0.3219,
+          "red": 0.1619999999999999
         },
         "fillType": 0,
         "isEnabled": true,
@@ -78,6 +79,7 @@
       }
     ],
     "miterLimit": 10,
+    "sharedObjectID": "568C4246-61C9-433F-98D7-0F3AE2725967",
     "startMarkerType": 0,
     "windingRule": 1
   },

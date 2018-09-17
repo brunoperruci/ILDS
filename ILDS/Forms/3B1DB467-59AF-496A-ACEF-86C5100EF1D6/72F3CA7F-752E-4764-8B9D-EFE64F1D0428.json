@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "forms/radio/resting/hover",
-  "nameIsFixed": false,
+  "name": "forms/radio/states/resting/hover",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

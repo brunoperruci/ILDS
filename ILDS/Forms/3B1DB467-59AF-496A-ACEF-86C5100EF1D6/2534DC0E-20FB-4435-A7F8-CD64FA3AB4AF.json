@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "forms/radio/selected/active/pink",
-  "nameIsFixed": false,
+  "name": "forms/radio/states/selected/active/pink",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

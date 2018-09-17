@@ -58,6 +58,7 @@
         "thickness": 1
       }
     ],
+    "do_objectID": "93F5C369-5DA5-46A3-857D-DD6BA48255F7",
     "endMarkerType": 0,
     "fills": [
       {
@@ -78,6 +79,7 @@
       }
     ],
     "miterLimit": 10,
+    "sharedObjectID": "FE7FFD9E-05F6-4069-B933-7E68D6A21EBF",
     "startMarkerType": 0,
     "windingRule": 1
   },

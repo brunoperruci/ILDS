@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "tag/resting",
-  "nameIsFixed": false,
+  "name": "tag/removable/resting",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

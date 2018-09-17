@@ -28,8 +28,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "divisor/2px",
-  "nameIsFixed": false,
+  "name": "divisor/horizontal/2px",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

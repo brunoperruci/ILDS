@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/icon + label/green/standard",
-  "nameIsFixed": false,
+  "name": "button/subtle/icon + label/green",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

@@ -28,8 +28,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atoms/pagination/resting copy 3",
-  "nameIsFixed": false,
+  "name": "pagination/states/active/green",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

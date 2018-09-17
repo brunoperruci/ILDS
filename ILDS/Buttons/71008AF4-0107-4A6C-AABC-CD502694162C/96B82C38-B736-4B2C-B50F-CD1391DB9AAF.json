@@ -15,9 +15,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 150,
+    "width": 148,
     "x": 444,
-    "y": 776
+    "y": 439
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/secondary/icon + label/blue/active",
-  "nameIsFixed": false,
+  "name": "button/secondary/icon + label/states/active",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

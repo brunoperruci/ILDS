@@ -28,8 +28,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "forms/text input/alert copy",
-  "nameIsFixed": false,
+  "name": "forms/text input/states/alert",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

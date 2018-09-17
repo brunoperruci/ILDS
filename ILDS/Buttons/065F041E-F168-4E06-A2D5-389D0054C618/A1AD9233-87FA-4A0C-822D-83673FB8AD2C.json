@@ -28,8 +28,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/pink/primary/with icon/disabled",
-  "nameIsFixed": false,
+  "name": "button/primary/label + icon/states/pink/disabled",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

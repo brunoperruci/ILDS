@@ -28,8 +28,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "tag/remove hover copy",
-  "nameIsFixed": false,
+  "name": "tag/removable/states/remove active",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

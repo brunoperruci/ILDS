@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 82,
+  "changeIdentifier": 85,
   "do_objectID": "848E4F27-0217-45B6-AF46-AE0DD30B680D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -61,6 +61,10 @@
     {
       "class": "text",
       "id": "ACF81381-EE5B-4228-A9B0-7D82F5AE9B09"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "609E840C-D47B-42CC-870D-4BA6872AAFB2"
     }
   ],
   "name": "forms/searchbox/states/resting hover",

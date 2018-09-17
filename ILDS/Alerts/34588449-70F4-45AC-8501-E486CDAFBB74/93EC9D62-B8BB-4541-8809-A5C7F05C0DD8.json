@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atoms/forms/container/parts/error",
-  "nameIsFixed": false,
+  "name": "atoms/forms/container/parts/warning",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

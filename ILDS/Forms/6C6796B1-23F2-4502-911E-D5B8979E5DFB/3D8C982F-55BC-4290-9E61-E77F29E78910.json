@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "forms/searchbox/label/filled/multi/standard",
-  "nameIsFixed": false,
+  "name": "forms/searchbox/filled/multi",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

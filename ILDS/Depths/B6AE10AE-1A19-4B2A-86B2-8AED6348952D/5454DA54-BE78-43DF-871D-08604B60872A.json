@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atoms / depths / z200",
-  "nameIsFixed": false,
+  "name": "atoms/depth/z200",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "checkbox/resting/active/green",
-  "nameIsFixed": false,
+  "name": "forms/checkbox/states/resting/active/green",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

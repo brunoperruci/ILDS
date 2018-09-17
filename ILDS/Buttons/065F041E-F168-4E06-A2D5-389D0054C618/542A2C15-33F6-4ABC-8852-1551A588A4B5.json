@@ -28,8 +28,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/pink/primary/with icon/hover",
-  "nameIsFixed": false,
+  "name": "button/primary/label + icon/states/blue/hover",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,
