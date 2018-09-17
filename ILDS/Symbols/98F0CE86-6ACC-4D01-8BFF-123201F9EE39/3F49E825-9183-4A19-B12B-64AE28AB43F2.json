@@ -24,10 +24,10 @@
           "kerning": 0.33,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 32,
-            "minimumLineHeight": 32
+            "maximumLineHeight": 36,
+            "minimumLineHeight": 36
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -55,12 +55,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "57329B20-95B4-491A-B09F-B3F8FAA24090",
-    "height": 32,
+    "height": 36,
     "width": 104,
     "x": 12,
     "y": 0
   },
-  "glyphBounds": "{{1, 10}, {102, 12}}",
+  "glyphBounds": "{{1, 12}, {102, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -70,7 +70,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Label",
   "nameIsFixed": false,
-  "resizingConstraint": 11,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -102,10 +102,10 @@
         "kerning": 0.33,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 32,
-          "minimumLineHeight": 32
+          "maximumLineHeight": 36,
+          "minimumLineHeight": 36
         },
         "textStyleVerticalAlignmentKey": 0
       },

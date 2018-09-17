@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Pink"
+    "string": "Green"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -55,11 +55,11 @@
     "constrainProportions": false,
     "do_objectID": "A468F028-1096-4285-839C-D0DFDFA4C010",
     "height": 24,
-    "width": 39,
+    "width": 54,
     "x": 48,
-    "y": 404
+    "y": 415
   },
-  "glyphBounds": "{{1, 4}, {38, 15}}",
+  "glyphBounds": "{{1, 4}, {51, 16}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Pink Copy",
+  "name": "Green",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
