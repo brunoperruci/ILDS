@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "84085004-5423-42F3-BE3F-0079246CE09B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "640EA8DA-1BA7-4C41-977E-7B1CA9E26741",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ABF09C4E-5A81-4BEB-A14D-5B953273C06A",
+    "height": 24,
+    "width": 24,
+    "x": 12,
+    "y": 24
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atoms/icons/error",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4A3E903E-0924-4E2B-AD97-482BED18774D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9D48EAFE-8D10-49A4-8691-FD54A6C477C1",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
