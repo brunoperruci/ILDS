@@ -77,8 +77,8 @@
       "id": "B9D8F589-9F11-4EF1-8A5F-07D5E20117FC"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "Alerts",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
