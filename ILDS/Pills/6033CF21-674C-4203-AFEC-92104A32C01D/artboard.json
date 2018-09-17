@@ -1,0 +1,211 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "6033CF21-674C-4203-AFEC-92104A32C01D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 546,
+    "width": 1015,
+    "x": -553,
+    "y": -526
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F78885E3-ADFF-47BA-BDBE-3D4DBA217D63"
+    },
+    {
+      "class": "text",
+      "id": "1AE039D1-20B4-4028-8BEC-F7E37BF7D151"
+    },
+    {
+      "class": "text",
+      "id": "240053F8-8ED1-482D-9108-A17D70A03B9C"
+    },
+    {
+      "class": "text",
+      "id": "E2B40985-2844-49CF-8C89-A5BD2EA2B196"
+    },
+    {
+      "class": "text",
+      "id": "D65207DE-A38D-4992-A5D4-1172A1C4B18D"
+    },
+    {
+      "class": "text",
+      "id": "A2F8D5A3-772D-4135-9EE1-CE336129B2ED"
+    },
+    {
+      "class": "text",
+      "id": "47AA79C5-E91D-426B-8275-599399E9AA1C"
+    },
+    {
+      "class": "text",
+      "id": "33A84882-B9A0-4049-83FB-A3978FFC1732"
+    },
+    {
+      "class": "text",
+      "id": "1D14D3C8-1291-4136-BCD3-8103FA1EEAD0"
+    },
+    {
+      "class": "text",
+      "id": "18ACB3B6-C6D4-4817-BF61-2F9EB5893FEB"
+    },
+    {
+      "class": "text",
+      "id": "C7222039-B78A-404D-A3E8-9523554C0DE6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D9A7DDD-8A68-46CB-933A-BF299FC8B1AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9DBB6B2A-FB5F-4811-9FD9-AD8D68DE4E8D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1324DCAF-5E15-4207-8F17-3C7503B5DD17"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "661650E0-647E-4384-BC2C-FB7940DC6F93"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8D8B80C7-67FB-47E7-A0C9-CD4F2CFD75D9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E7194858-D9B2-40D7-BD82-29271CCDDFEC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5E997DB-0F8E-4164-B117-1284C3B9B435"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A6F6BE0B-2A07-4BFA-A917-9D579154D9BC"
+    },
+    {
+      "class": "text",
+      "id": "A3650FC0-104B-443A-904C-E91BBDD4A005"
+    },
+    {
+      "class": "text",
+      "id": "475018A1-7D90-4096-AE9A-A576ED389536"
+    },
+    {
+      "class": "text",
+      "id": "465B4706-FDDA-438A-99DB-DAB5A6C8DE87"
+    },
+    {
+      "class": "text",
+      "id": "E8D1F66F-8AC7-4649-A285-0402EB2E2B57"
+    },
+    {
+      "class": "text",
+      "id": "ED2DCFD9-4242-4AD9-8253-78E220E11976"
+    },
+    {
+      "class": "text",
+      "id": "6251613F-2215-466A-B82F-B4BBA353F0C9"
+    },
+    {
+      "class": "text",
+      "id": "1E85F49D-1ECA-4D5E-947B-3645FF41306B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "46B8013D-4BCA-4440-8B3E-061988D8A18D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "352CAC62-1BFD-4BEE-8444-EEE1EC9BBB7B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "60541503-277A-4855-A28C-738CA98E275D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "960E91F8-0EFB-4232-9997-41FC09721370"
+    },
+    {
+      "class": "text",
+      "id": "2F116129-61C5-499B-B65D-3CC327C73ED1"
+    },
+    {
+      "class": "group",
+      "id": "7354FFFB-A68E-46CE-AAAE-F21941B6763C"
+    },
+    {
+      "class": "group",
+      "id": "7E177110-F03A-46FB-BF3B-433C37CB6564"
+    },
+    {
+      "class": "group",
+      "id": "6024C84A-C0FD-4D4A-8D33-D5ABA4B10197"
+    }
+  ],
+  "name": "Pills Small",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
