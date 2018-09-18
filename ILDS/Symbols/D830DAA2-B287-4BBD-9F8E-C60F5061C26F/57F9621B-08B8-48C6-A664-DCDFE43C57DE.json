@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "57F9621B-08B8-48C6-A664-DCDFE43C57DE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "12CCB644-074A-4E1F-8D9F-1FBA46BC5EA1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C13217E6-CDFB-4742-AC85-74FA3BCCEC4B",
+    "height": 24,
+    "width": 24,
+    "x": 6,
+    "y": 6
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atoms/icons/material",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C325A8D1-DE9C-42ED-BF35-37F3CEEE6E30",
+      "overrideName": "AF90A25C-F9F3-45E8-A395-22A204462C6D_stringValue",
+      "value": "view_agenda"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "20CC4727-0DD6-439E-90BA-984E79558B00",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3431AB31-9490-4438-8A31-97F622899C0E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

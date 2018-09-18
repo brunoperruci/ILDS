@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "3854ECA3-C303-4A50-8BF7-59E154ABAC7F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C735ED0C-FCE8-435D-80AC-6538B322C907",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC093C60-6F57-4623-8684-03C9B195E1EE",
+    "height": 36,
+    "width": 36,
+    "x": 659,
+    "y": 1382
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "pills/large/only-icon/selected/blue copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6688B3FA-FE36-4137-B126-F1C5307EE43B",
+      "overrideName": "256CB6C8-E748-4432-8069-08284DD40092/46E46722-34DB-4C89-87EA-A3383E70D3F1_stringValue",
+      "value": "start_rate"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "208978CD-8054-47C2-9BC1-D08139FC2EC9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0F7D0C4E-E771-4776-A945-E22891B6D948",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
