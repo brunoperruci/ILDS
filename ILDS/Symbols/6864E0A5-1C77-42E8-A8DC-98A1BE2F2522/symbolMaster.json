@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 58,
+  "changeIdentifier": 59,
   "do_objectID": "6864E0A5-1C77-42E8-A8DC-98A1BE2F2522",
   "exportOptions": {
     "_class": "exportOptions",
@@ -31,7 +31,7 @@
     "y": 124
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -55,7 +55,7 @@
       "id": "46E46722-34DB-4C89-87EA-A3383E70D3F1"
     }
   ],
-  "name": "atoms/icons/material",
+  "name": "atoms/icons/material/grey",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

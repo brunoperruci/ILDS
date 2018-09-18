@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 17,
+  "changeIdentifier": 19,
   "do_objectID": "A2DD5B56-6161-48EF-A0ED-3907BAC04567",
   "exportOptions": {
     "_class": "exportOptions",
@@ -28,7 +28,7 @@
     "y": 272
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -55,8 +55,8 @@
       "id": "04C357F7-0CCE-4D8D-A6BC-0B633C3D11F7"
     }
   ],
-  "name": "pills/large/selected/green",
-  "nameIsFixed": false,
+  "name": "pills/large/label/selected/green",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

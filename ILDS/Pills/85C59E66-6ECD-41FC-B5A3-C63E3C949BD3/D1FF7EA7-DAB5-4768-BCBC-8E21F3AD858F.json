@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 13,
+        "length": 21,
         "location": 0
       }
     ],
-    "string": "Pills . large"
+    "string": "Pills . large . label"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -55,11 +55,11 @@
     "constrainProportions": false,
     "do_objectID": "02CDD6D9-FA40-4768-A5CA-4002E8CEF0C6",
     "height": 28,
-    "width": 117,
+    "width": 186,
     "x": 48,
     "y": 48
   },
-  "glyphBounds": "{{2, 4}, {113, 24}}",
+  "glyphBounds": "{{2, 4}, {182, 24}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Pills . large",
+  "name": "Pills . large . labe",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

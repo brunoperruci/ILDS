@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 6,
+  "changeIdentifier": 8,
   "do_objectID": "9378674F-05DD-475B-A0A4-F8577997B6DB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -28,7 +28,7 @@
     "y": 680
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -55,8 +55,8 @@
       "id": "F946997E-035F-4FEF-BF90-78B262EFD524"
     }
   ],
-  "name": "pills/large/states/hover",
-  "nameIsFixed": false,
+  "name": "pills/large/label/states/hover",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
