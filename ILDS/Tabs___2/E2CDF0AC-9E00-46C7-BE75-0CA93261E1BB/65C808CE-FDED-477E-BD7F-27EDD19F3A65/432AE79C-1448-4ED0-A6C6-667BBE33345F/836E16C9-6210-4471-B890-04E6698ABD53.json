@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "836E16C9-6210-4471-B890-04E6698ABD53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9EC92383-D660-4634-A8F1-F76E4B406F4A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "840E37AB-99B9-4E43-9DCD-3281A02C060E",
+    "height": 39,
+    "width": 111,
+    "x": 222,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tabs/resting",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9CF4DEA2-6D5E-48A5-957F-7429906C975E",
+      "overrideName": "3CF07EFC-1150-4AFF-AEB6-236B089E1C1A_stringValue",
+      "value": "Tab #3"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FE17D4C5-0221-4B0A-8704-987E8E8CAEC0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2ED83418-0666-4CA3-9DF6-85C7A47701BC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "tabsWithBgSelectedCopy3",
+        "variableIDSketchID": "6AA793B2-D69D-415D-B2A4-C5DB54820C27"
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

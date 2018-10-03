@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "04BBB45F-AEF1-4125-84BF-1154DD727CA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1CFB1076-9688-4986-B57C-B3EC91CBC34E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9CBB941C-A781-4C3F-AF6D-17CFDFE577E9",
+    "height": 28,
+    "width": 115,
+    "x": 230,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "pills/small/resting copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "04AFAC8A-F243-4EA6-A97E-97DA2598B637",
+      "overrideName": "DB2448F9-33F9-4F0B-9CE0-A6647746C7DD_stringValue",
+      "value": "Pill Name #3"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6B069EF2-6C40-4B34-B8E6-7D402077928D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FA7B2422-0E78-40CB-88A1-52CC48E05E61",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

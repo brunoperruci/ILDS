@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "2C9E9E98-42F3-469F-9D02-0EB3C5EB2D94",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B6618D8E-E88F-4B2C-AA3F-80EA1314C0B4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F47063AC-E921-42E8-8615-1A7E2E0B5F81",
+    "height": 2,
+    "width": 960,
+    "x": 0,
+    "y": 36
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "divisor/horizontal/2px",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E21F86F7-A945-49AE-A49C-B17B2C089E1A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D602AC4D-71B0-4A35-A96C-19B6F9B6D682",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "divisor2px",
+        "variableIDSketchID": "8A856CB8-83EE-40C0-8C2A-13F44798F7D5"
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

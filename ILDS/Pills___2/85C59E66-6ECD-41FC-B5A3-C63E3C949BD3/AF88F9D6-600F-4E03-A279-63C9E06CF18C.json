@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "AF88F9D6-600F-4E03-A279-63C9E06CF18C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7A063234-C929-495F-ABD9-D93F45BFE5FD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5A30509E-DDAA-4935-BB9F-4FA6EE57C9FB",
+    "height": 36,
+    "width": 36,
+    "x": 695,
+    "y": 1536
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "pills/large/only-icon/selected/blue copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FB787359-17C6-4363-882A-B48BB4925B8C",
+      "overrideName": "256CB6C8-E748-4432-8069-08284DD40092/46E46722-34DB-4C89-87EA-A3383E70D3F1_stringValue",
+      "value": "theaters"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A452A037-CDDF-4F3C-B048-DA806ADD7888",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0F7D0C4E-E771-4776-A945-E22891B6D948",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

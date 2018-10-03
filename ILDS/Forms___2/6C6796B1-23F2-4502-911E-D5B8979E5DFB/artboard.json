@@ -1,0 +1,175 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "EEAC8FEB-5333-4121-9101-B06F899E5B50",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "6C6796B1-23F2-4502-911E-D5B8979E5DFB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7E765DC3-2752-418D-BF33-FE048AF60C04",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "96B0E460-5760-4014-A3E2-3A2045D7D75E",
+    "height": 776,
+    "width": 960,
+    "x": 1436,
+    "y": -127
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FB293F82-6E6C-4CB8-B743-EB0AF575494F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4CD6EF28-B601-434A-8002-70510A360D46"
+    },
+    {
+      "class": "text",
+      "id": "BB8498C8-4E0B-416B-A078-B3640DF66954"
+    },
+    {
+      "class": "text",
+      "id": "7F716312-0BED-44D5-B130-9710FC35EF56"
+    },
+    {
+      "class": "text",
+      "id": "3874AE95-84A5-4B6F-A81F-06E3BD7A6DA5"
+    },
+    {
+      "class": "text",
+      "id": "C2E68FE2-DF66-42F7-AB46-E1644F5806E7"
+    },
+    {
+      "class": "text",
+      "id": "37E491EB-BA26-4442-86F5-64A20908DDF6"
+    },
+    {
+      "class": "text",
+      "id": "C696F0C6-ABB7-43F3-8DA7-39C5721AA845"
+    },
+    {
+      "class": "text",
+      "id": "25F16388-8ED7-45DA-ACB9-685C1D9CF901"
+    },
+    {
+      "class": "text",
+      "id": "FAF84CE4-822F-4A0E-B073-B97545876C8C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "76DE9BBF-B28E-4493-AD93-93FFDFC59366"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9A728BDD-324C-4ECB-BCEF-E095F0743508"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A690F88A-2C5C-4229-AEF9-D48790A48D4F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A224C94A-D623-470C-986F-B718ABDFD2E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "70FABDF8-106C-4446-A222-AD3F6E5DDD0E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C7F41202-5640-49B4-9449-1D3B56AE6C05"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "70289C81-8FB3-4651-B033-A1811CD63D2B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3D8C982F-55BC-4290-9E61-E77F29E78910"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D952D12B-BFED-49C7-BCFA-C09A0F62716C"
+    }
+  ],
+  "name": "Searchbox",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "5C8CA966-3A6C-4C0F-B248-34F1EAB73551",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B02E4EBB-30C8-480F-8166-F5624D09E9F9",
+    "guides": [
+    ]
+  }
+}

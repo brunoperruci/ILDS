@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "4AE33232-C5EE-49FC-957C-03ED18D04ECF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1F27B89C-5C29-434A-89DF-D803EC0B304B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "16B08D4F-F12E-4F2F-A870-E9F87EB6F5DF",
+    "height": 39,
+    "width": 111,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tabs/without-bg/selected/blue",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5CE31F0F-DAFB-4BA3-A44E-91AC2B248748",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57105AC8-4F7E-4009-BBD8-C6A3C2F2657E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "tabsWithBgSelectedCopy",
+        "variableIDSketchID": "D8EC466A-4A8E-4146-A3B0-BCABED8A75C7"
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

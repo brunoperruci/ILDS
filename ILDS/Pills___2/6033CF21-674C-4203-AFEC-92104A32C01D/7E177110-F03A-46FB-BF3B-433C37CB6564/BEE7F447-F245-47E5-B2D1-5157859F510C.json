@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "BEE7F447-F245-47E5-B2D1-5157859F510C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "67387701-E4FB-41FB-B58F-8AA5CE2D2E71",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FA6FB005-8E23-4E69-8C2D-19D64F6E9271",
+    "height": 28,
+    "width": 115,
+    "x": 115,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "pills/small/selected/blue copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BCE1A322-5A20-40D7-AF8A-5EC91918202B",
+      "overrideName": "DB2448F9-33F9-4F0B-9CE0-A6647746C7DD_stringValue",
+      "value": "Pill Name #2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EBCDBE0D-E4D7-4A00-9644-12B1EDA891FC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FA7B2422-0E78-40CB-88A1-52CC48E05E61",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
