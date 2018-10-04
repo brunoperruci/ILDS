@@ -8,8 +8,8 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 23,
-  "do_objectID": "EFB7E332-8543-4A8A-B388-D56464B952CA",
+  "changeIdentifier": 33,
+  "do_objectID": "F17B3CAE-6B97-4288-9EC1-637516A693BD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 16,
-    "x": 3688,
-    "y": 1740
+    "height": 20,
+    "width": 140,
+    "x": 9713,
+    "y": 1800
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,18 +46,10 @@
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "083DF7FA-FDA5-413D-A31B-745DBE98F799"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "EE581BA8-930E-4042-A8E4-98AB76356A0B"
-    }
   ],
-  "name": "atoms/radio/selected/pink",
+  "name": "forms/toggle/states/pink/hover",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -69,7 +61,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D138110E-E9F5-4DBE-A9FF-E03FB9D0B79F",
+  "symbolID": "7FC465A8-BA18-4F12-9744-F6F483A6CEEB",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

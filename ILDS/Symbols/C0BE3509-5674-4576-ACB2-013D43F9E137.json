@@ -8,8 +8,8 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 151,
-  "do_objectID": "EA75C3B5-9A68-4A54-A887-FE551984C88B",
+  "changeIdentifier": 35,
+  "do_objectID": "C0BE3509-5674-4576-ACB2-013D43F9E137",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,13 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 152,
-    "x": 5117,
-    "y": 2720
+    "height": 20,
+    "width": 124,
+    "x": 7869,
+    "y": 240
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,22 +44,10 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "1749E771-C4A0-4F60-BE38-98574DE17A33"
-    },
-    {
-      "class": "text",
-      "id": "0C409F17-EDF8-4B06-911E-F8726252D9A5"
-    },
-    {
-      "class": "text",
-      "id": "6E314514-9A8B-409F-B4ED-FED7D1AB3A60"
-    }
   ],
-  "name": "button/primary/label + icon/states/green/hover",
+  "name": "forms/radio/selected/green",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
@@ -73,7 +61,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C24D29C7-F4E1-44A8-9582-4EF7A3FD4AE6",
+  "symbolID": "F7B05A3F-DC47-4752-8CD5-6809A0B01F41",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

@@ -8,8 +8,8 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 18,
-  "do_objectID": "EFAA06DF-09BC-4283-8FC9-47ECDA0EC6DE",
+  "changeIdentifier": 33,
+  "do_objectID": "A2F70868-5D4D-4C9B-9008-90AAA83EFFE1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 136,
-    "x": 4199,
-    "y": 248
+    "height": 20,
+    "width": 140,
+    "x": 9713,
+    "y": 360
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,14 +46,10 @@
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "37BAF3DD-13ED-416F-BF2A-1EDB11C6D7E9"
-    }
   ],
-  "name": "atoms/tag/container/resting",
+  "name": "forms/toggle/selected/pink",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -65,7 +61,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D0125ADF-E8CC-40B0-A390-D58E9F1BB02B",
+  "symbolID": "EC91927E-D428-42B0-9C22-D98427FDA626",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
