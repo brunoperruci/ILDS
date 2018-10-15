@@ -7,10 +7,10 @@
     "green": 1,
     "red": 1
   },
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "changeIdentifier": 19,
   "clippingMaskMode": 0,
-  "do_objectID": "A2DD5B56-6161-48EF-A0ED-3907BAC04567",
+  "do_objectID": "EA5A2A20-AD8C-44E5-8F3A-CF021D3CB8B0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,13 +23,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 95,
-    "x": 11237,
-    "y": 272
+    "height": 16,
+    "width": 16,
+    "x": 1928,
+    "y": 232
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,11 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "BFF35BF2-0254-4040-AA77-CCBC92E60586"
+    }
   ],
-  "name": "pills/large/label/selected/green",
-  "nameIsFixed": true,
+  "name": "atoms/checkbox/active/pink",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -63,7 +67,13 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "2B1001A2-06CD-47B0-BB40-70D323F574F2",
+  "symbolID": "D29D2551-A68E-4406-AA56-D347ED8CD571",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

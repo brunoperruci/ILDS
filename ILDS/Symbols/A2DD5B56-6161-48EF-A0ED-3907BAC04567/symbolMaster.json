@@ -7,10 +7,10 @@
     "green": 1,
     "red": 1
   },
-  "booleanOperation": 0,
-  "changeIdentifier": 33,
+  "booleanOperation": -1,
+  "changeIdentifier": 19,
   "clippingMaskMode": 0,
-  "do_objectID": "A2F70868-5D4D-4C9B-9008-90AAA83EFFE1",
+  "do_objectID": "A2DD5B56-6161-48EF-A0ED-3907BAC04567",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,13 +23,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 140,
-    "x": 9713,
-    "y": 360
+    "height": 36,
+    "width": 95,
+    "x": 11237,
+    "y": 272
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,12 +46,20 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "AA0D6AB7-CA85-4159-89B6-A2DDD4773741"
+    },
+    {
+      "class": "text",
+      "id": "04C357F7-0CCE-4D8D-A6BC-0B633C3D11F7"
+    }
   ],
-  "name": "forms/toggle/selected/pink",
-  "nameIsFixed": false,
-  "resizesContent": true,
+  "name": "pills/large/label/selected/green",
+  "nameIsFixed": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -63,13 +71,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "EC91927E-D428-42B0-9C22-D98427FDA626",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
+  "symbolID": "2B1001A2-06CD-47B0-BB40-70D323F574F2",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

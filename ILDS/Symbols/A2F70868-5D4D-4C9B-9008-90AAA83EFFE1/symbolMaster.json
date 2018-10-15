@@ -7,10 +7,10 @@
     "green": 1,
     "red": 1
   },
-  "booleanOperation": -1,
-  "changeIdentifier": 52,
+  "booleanOperation": 0,
+  "changeIdentifier": 33,
   "clippingMaskMode": 0,
-  "do_objectID": "68BE5394-8B06-4FA2-897F-D2A7EFE4092C",
+  "do_objectID": "A2F70868-5D4D-4C9B-9008-90AAA83EFFE1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 108,
-    "x": 11237,
-    "y": 2040
+    "height": 20,
+    "width": 140,
+    "x": 9713,
+    "y": 360
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,10 +48,18 @@
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FBB4C375-9BB8-49E6-B582-86D262FB1AC3"
+    },
+    {
+      "class": "text",
+      "id": "3DC4D29E-16D7-4FDF-86A4-A01B8AD952CC"
+    }
   ],
-  "name": "pills/large/with-icon/selected/pink",
+  "name": "forms/toggle/selected/pink",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -63,7 +71,13 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "8B841A79-EB7F-43AE-A41F-2CA497569061",
+  "symbolID": "EC91927E-D428-42B0-9C22-D98427FDA626",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

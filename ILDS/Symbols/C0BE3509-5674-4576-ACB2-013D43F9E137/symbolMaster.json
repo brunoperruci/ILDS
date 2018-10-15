@@ -48,6 +48,14 @@
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
+    {
+      "class": "text",
+      "id": "C17D52E6-5C2A-496B-BE3B-CD201729766F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B0E68982-DE2A-486F-B27C-4B197E122B84"
+    }
   ],
   "name": "forms/radio/selected/green",
   "nameIsFixed": true,
